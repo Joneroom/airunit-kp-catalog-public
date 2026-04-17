@@ -1,0 +1,3749 @@
+[
+  {
+    "id": "AARONIA AG",
+    "name": "AARONIA AG",
+    "path": "AARONIA AG",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "AARONIA AG",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "AARONIA AG/Аксесуари",
+      "AARONIA AG/Антени",
+      "AARONIA AG/Екрануючі матеріали",
+      "AARONIA AG/Контрольно-вимірювальні прилади"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Аксесуари",
+    "name": "Аксесуари",
+    "path": "AARONIA AG/Аксесуари",
+    "parent_path": "AARONIA AG",
+    "level": 2,
+    "level_1": "AARONIA AG",
+    "level_2": "Аксесуари",
+    "level_3": null,
+    "children_paths": [
+      "AARONIA AG/Аксесуари/Інше",
+      "AARONIA AG/Аксесуари/Адаптери",
+      "AARONIA AG/Аксесуари/Зарядні пристрої",
+      "AARONIA AG/Аксесуари/Кабелі",
+      "AARONIA AG/Аксесуари/Обмежувачі",
+      "AARONIA AG/Аксесуари/Ударостійкі кейси",
+      "AARONIA AG/Аксесуари/Штативи"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Аксесуари/Інше",
+    "name": "Інше",
+    "path": "AARONIA AG/Аксесуари/Інше",
+    "parent_path": "AARONIA AG/Аксесуари",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Аксесуари",
+    "level_3": "Інше",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Аксесуари/Адаптери",
+    "name": "Адаптери",
+    "path": "AARONIA AG/Аксесуари/Адаптери",
+    "parent_path": "AARONIA AG/Аксесуари",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Аксесуари",
+    "level_3": "Адаптери",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Аксесуари/Зарядні пристрої",
+    "name": "Зарядні пристрої",
+    "path": "AARONIA AG/Аксесуари/Зарядні пристрої",
+    "parent_path": "AARONIA AG/Аксесуари",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Аксесуари",
+    "level_3": "Зарядні пристрої",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Аксесуари/Кабелі",
+    "name": "Кабелі",
+    "path": "AARONIA AG/Аксесуари/Кабелі",
+    "parent_path": "AARONIA AG/Аксесуари",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Аксесуари",
+    "level_3": "Кабелі",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Аксесуари/Обмежувачі",
+    "name": "Обмежувачі",
+    "path": "AARONIA AG/Аксесуари/Обмежувачі",
+    "parent_path": "AARONIA AG/Аксесуари",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Аксесуари",
+    "level_3": "Обмежувачі",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Аксесуари/Ударостійкі кейси",
+    "name": "Ударостійкі кейси",
+    "path": "AARONIA AG/Аксесуари/Ударостійкі кейси",
+    "parent_path": "AARONIA AG/Аксесуари",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Аксесуари",
+    "level_3": "Ударостійкі кейси",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Аксесуари/Штативи",
+    "name": "Штативи",
+    "path": "AARONIA AG/Аксесуари/Штативи",
+    "parent_path": "AARONIA AG/Аксесуари",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Аксесуари",
+    "level_3": "Штативи",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени",
+    "name": "Антени",
+    "path": "AARONIA AG/Антени",
+    "parent_path": "AARONIA AG",
+    "level": 2,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": null,
+    "children_paths": [
+      "AARONIA AG/Антени/3D ізотропні антени",
+      "AARONIA AG/Антени/EMC Сніфер",
+      "AARONIA AG/Антени/Аксесуари для Антен",
+      "AARONIA AG/Антени/Антени IsoLOG",
+      "AARONIA AG/Антени/Антени LogPer",
+      "AARONIA AG/Антени/Всенаправлені та біконічні антени",
+      "AARONIA AG/Антени/Магнітні антени",
+      "AARONIA AG/Антени/Рупорні антени"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Антени/3D ізотропні антени",
+    "name": "3D ізотропні антени",
+    "path": "AARONIA AG/Антени/3D ізотропні антени",
+    "parent_path": "AARONIA AG/Антени",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "3D ізотропні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/EMC Сніфер",
+    "name": "EMC Сніфер",
+    "path": "AARONIA AG/Антени/EMC Сніфер",
+    "parent_path": "AARONIA AG/Антени",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "EMC Сніфер",
+    "children_paths": [
+      "AARONIA AG/Антени/EMC Сніфер/Зонди"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Антени/EMC Сніфер/Зонди",
+    "name": "Зонди",
+    "path": "AARONIA AG/Антени/EMC Сніфер/Зонди",
+    "parent_path": "AARONIA AG/Антени/EMC Сніфер",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "EMC Сніфер",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Аксесуари для Антен",
+    "name": "Аксесуари для Антен",
+    "path": "AARONIA AG/Антени/Аксесуари для Антен",
+    "parent_path": "AARONIA AG/Антени",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Аксесуари для Антен",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Антени IsoLOG",
+    "name": "Антени IsoLOG",
+    "path": "AARONIA AG/Антени/Антени IsoLOG",
+    "parent_path": "AARONIA AG/Антени",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Антени IsoLOG",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Антени LogPer",
+    "name": "Антени LogPer",
+    "path": "AARONIA AG/Антени/Антени LogPer",
+    "parent_path": "AARONIA AG/Антени",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Антени LogPer",
+    "children_paths": [
+      "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
+      "AARONIA AG/Антени/Антени LogPer/HyperLOG EMI",
+      "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
+      "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
+      "AARONIA AG/Антени/Антени LogPer/HyperLOG X BPA (активні + bypass)"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
+    "name": "HyperLOG (пасивні)",
+    "path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
+    "parent_path": "AARONIA AG/Антени/Антени LogPer",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Антени LogPer",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Антени LogPer/HyperLOG EMI",
+    "name": "HyperLOG EMI",
+    "path": "AARONIA AG/Антени/Антени LogPer/HyperLOG EMI",
+    "parent_path": "AARONIA AG/Антени/Антени LogPer",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Антени LogPer",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
+    "name": "HyperLOG PRO",
+    "path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
+    "parent_path": "AARONIA AG/Антени/Антени LogPer",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Антени LogPer",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
+    "name": "HyperLOG X (активні)",
+    "path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
+    "parent_path": "AARONIA AG/Антени/Антени LogPer",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Антени LogPer",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Антени LogPer/HyperLOG X BPA (активні + bypass)",
+    "name": "HyperLOG X BPA (активні + bypass)",
+    "path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X BPA (активні + bypass)",
+    "parent_path": "AARONIA AG/Антени/Антени LogPer",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Антени LogPer",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Всенаправлені та біконічні антени",
+    "name": "Всенаправлені та біконічні антени",
+    "path": "AARONIA AG/Антени/Всенаправлені та біконічні антени",
+    "parent_path": "AARONIA AG/Антени",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Всенаправлені та біконічні антени",
+    "children_paths": [
+      "AARONIA AG/Антени/Всенаправлені та біконічні антени/Біконічні активні",
+      "AARONIA AG/Антени/Всенаправлені та біконічні антени/Біконічні пасивні",
+      "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені",
+      "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Біконічні активні",
+    "name": "Біконічні активні",
+    "path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Біконічні активні",
+    "parent_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Всенаправлені та біконічні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Біконічні пасивні",
+    "name": "Біконічні пасивні",
+    "path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Біконічні пасивні",
+    "parent_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Всенаправлені та біконічні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені",
+    "name": "Всенаправлені",
+    "path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені",
+    "parent_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Всенаправлені та біконічні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
+    "name": "Всенаправлені PRO",
+    "path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
+    "parent_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Всенаправлені та біконічні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Магнітні антени",
+    "name": "Магнітні антени",
+    "path": "AARONIA AG/Антени/Магнітні антени",
+    "parent_path": "AARONIA AG/Антени",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Магнітні антени",
+    "children_paths": [
+      "AARONIA AG/Антени/Магнітні антени/MDF Активні",
+      "AARONIA AG/Антени/Магнітні антени/MDF Пасивні",
+      "AARONIA AG/Антени/Магнітні антени/MagnoTRACKER"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Антени/Магнітні антени/MDF Активні",
+    "name": "MDF Активні",
+    "path": "AARONIA AG/Антени/Магнітні антени/MDF Активні",
+    "parent_path": "AARONIA AG/Антени/Магнітні антени",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Магнітні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Магнітні антени/MDF Пасивні",
+    "name": "MDF Пасивні",
+    "path": "AARONIA AG/Антени/Магнітні антени/MDF Пасивні",
+    "parent_path": "AARONIA AG/Антени/Магнітні антени",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Магнітні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Магнітні антени/MagnoTRACKER",
+    "name": "MagnoTRACKER",
+    "path": "AARONIA AG/Антени/Магнітні антени/MagnoTRACKER",
+    "parent_path": "AARONIA AG/Антени/Магнітні антени",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Магнітні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Антени/Рупорні антени",
+    "name": "Рупорні антени",
+    "path": "AARONIA AG/Антени/Рупорні антени",
+    "parent_path": "AARONIA AG/Антени",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Антени",
+    "level_3": "Рупорні антени",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Екрануючі матеріали",
+    "name": "Екрануючі матеріали",
+    "path": "AARONIA AG/Екрануючі матеріали",
+    "parent_path": "AARONIA AG",
+    "level": 2,
+    "level_1": "AARONIA AG",
+    "level_2": "Екрануючі матеріали",
+    "level_3": null,
+    "children_paths": [
+      "AARONIA AG/Екрануючі матеріали/Екрановані камери",
+      "AARONIA AG/Екрануючі матеріали/Захист від магнітних полів",
+      "AARONIA AG/Екрануючі матеріали/Захист від радіочастотних та електричних полів"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Екрануючі матеріали/Екрановані камери",
+    "name": "Екрановані камери",
+    "path": "AARONIA AG/Екрануючі матеріали/Екрановані камери",
+    "parent_path": "AARONIA AG/Екрануючі матеріали",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Екрануючі матеріали",
+    "level_3": "Екрановані камери",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Екрануючі матеріали/Захист від магнітних полів",
+    "name": "Захист від магнітних полів",
+    "path": "AARONIA AG/Екрануючі матеріали/Захист від магнітних полів",
+    "parent_path": "AARONIA AG/Екрануючі матеріали",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Екрануючі матеріали",
+    "level_3": "Захист від магнітних полів",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Екрануючі матеріали/Захист від радіочастотних та електричних полів",
+    "name": "Захист від радіочастотних та електричних полів",
+    "path": "AARONIA AG/Екрануючі матеріали/Захист від радіочастотних та електричних полів",
+    "parent_path": "AARONIA AG/Екрануючі матеріали",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Екрануючі матеріали",
+    "level_3": "Захист від радіочастотних та електричних полів",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади",
+    "name": "Контрольно-вимірювальні прилади",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади",
+    "parent_path": "AARONIA AG",
+    "level": 2,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": null,
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Конструктор товари",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру",
+    "name": "Аналізатори спектру",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Віддалене керування",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Портативні Пристрої"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC",
+    "name": "PC",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Командний Центр",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Ноутбук",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Планшет"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Командний Центр",
+    "name": "Командний Центр",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Командний Центр",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Ноутбук",
+    "name": "Мобільний Ноутбук",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Ноутбук",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Планшет",
+    "name": "Мобільний Планшет",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Планшет",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Віддалене керування",
+    "name": "Віддалене керування",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Віддалене керування",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB",
+    "name": "Компактний USB",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 5G",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 ECO",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 PLUS",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 RODB",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 5G",
+    "name": "SPECTRAN V6 5G",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 5G",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 ECO",
+    "name": "SPECTRAN V6 ECO",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 ECO",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 PLUS",
+    "name": "SPECTRAN V6 PLUS",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 PLUS",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 RODB",
+    "name": "SPECTRAN V6 RODB",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 RODB",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
+    "name": "SPECTRAN V6 XPLORER",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Портативні Пристрої",
+    "name": "Портативні Пристрої",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Портативні Пристрої",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Портативні Пристрої/SPECTRAN HF-60100 V4"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Портативні Пристрої/SPECTRAN HF-60100 V4",
+    "name": "SPECTRAN HF-60100 V4",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Портативні Пристрої/SPECTRAN HF-60100 V4",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Портативні Пристрої",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Аналізатори спектру",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти",
+    "name": "Додаткові компоненти",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Додаткові компоненти",
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/З'єднувачі",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/З'єднувачі",
+    "name": "З'єднувачі",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/З'єднувачі",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Додаткові компоненти",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
+    "name": "Конвертор РЧ через оптоволокно",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Додаткові компоненти",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі",
+    "name": "Розгалужувачі",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Додаткові компоненти",
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери",
+    "name": "Комбайнери",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі",
+    "level": 5,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Додаткові компоненти",
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP4",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP6"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP4",
+    "name": "SPECTRAN SP4",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP4",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери",
+    "level": 6,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Додаткові компоненти",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP6",
+    "name": "SPECTRAN SP6",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP6",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери",
+    "level": 6,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Додаткові компоненти",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти",
+    "name": "Комплекти",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Комплекти",
+    "children_paths": [
+      "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+      "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру"
+    ]
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+    "name": "Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Комплекти",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру",
+    "name": "Мобільні комплекти для аналізу спектру",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти",
+    "level": 4,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Комплекти",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Конструктор товари",
+    "name": "Конструктор товари",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Конструктор товари",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Конструктор товари",
+    "children_paths": []
+  },
+  {
+    "id": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "name": "Програмне забезпечення",
+    "path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "parent_path": "AARONIA AG/Контрольно-вимірювальні прилади",
+    "level": 3,
+    "level_1": "AARONIA AG",
+    "level_2": "Контрольно-вимірювальні прилади",
+    "level_3": "Програмне забезпечення",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG",
+    "name": "Аграрні дрони DJI | XAG",
+    "path": "Аграрні дрони DJI | XAG",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Аграрні дрони DJI | XAG/DJI",
+      "Аграрні дрони DJI | XAG/XAG"
+    ]
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/DJI",
+    "name": "DJI",
+    "path": "Аграрні дрони DJI | XAG/DJI",
+    "parent_path": "Аграрні дрони DJI | XAG",
+    "level": 2,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "DJI",
+    "level_3": null,
+    "children_paths": [
+      "Аграрні дрони DJI | XAG/DJI/Agras T10",
+      "Аграрні дрони DJI | XAG/DJI/Agras T20P",
+      "Аграрні дрони DJI | XAG/DJI/Agras T30",
+      "Аграрні дрони DJI | XAG/DJI/Agras T40",
+      "Аграрні дрони DJI | XAG/DJI/Аксесуари Agras"
+    ]
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/DJI/Agras T10",
+    "name": "Agras T10",
+    "path": "Аграрні дрони DJI | XAG/DJI/Agras T10",
+    "parent_path": "Аграрні дрони DJI | XAG/DJI",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "DJI",
+    "level_3": "Agras T10",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/DJI/Agras T20P",
+    "name": "Agras T20P",
+    "path": "Аграрні дрони DJI | XAG/DJI/Agras T20P",
+    "parent_path": "Аграрні дрони DJI | XAG/DJI",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "DJI",
+    "level_3": "Agras T20P",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/DJI/Agras T30",
+    "name": "Agras T30",
+    "path": "Аграрні дрони DJI | XAG/DJI/Agras T30",
+    "parent_path": "Аграрні дрони DJI | XAG/DJI",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "DJI",
+    "level_3": "Agras T30",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/DJI/Agras T40",
+    "name": "Agras T40",
+    "path": "Аграрні дрони DJI | XAG/DJI/Agras T40",
+    "parent_path": "Аграрні дрони DJI | XAG/DJI",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "DJI",
+    "level_3": "Agras T40",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/DJI/Аксесуари Agras",
+    "name": "Аксесуари Agras",
+    "path": "Аграрні дрони DJI | XAG/DJI/Аксесуари Agras",
+    "parent_path": "Аграрні дрони DJI | XAG/DJI",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "DJI",
+    "level_3": "Аксесуари Agras",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/XAG",
+    "name": "XAG",
+    "path": "Аграрні дрони DJI | XAG/XAG",
+    "parent_path": "Аграрні дрони DJI | XAG",
+    "level": 2,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "XAG",
+    "level_3": null,
+    "children_paths": [
+      "Аграрні дрони DJI | XAG/XAG/P100",
+      "Аграрні дрони DJI | XAG/XAG/P40",
+      "Аграрні дрони DJI | XAG/XAG/V40",
+      "Аграрні дрони DJI | XAG/XAG/XP 2020",
+      "Аграрні дрони DJI | XAG/XAG/Аксесуари XAG"
+    ]
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/XAG/P100",
+    "name": "P100",
+    "path": "Аграрні дрони DJI | XAG/XAG/P100",
+    "parent_path": "Аграрні дрони DJI | XAG/XAG",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "XAG",
+    "level_3": "P100",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/XAG/P40",
+    "name": "P40",
+    "path": "Аграрні дрони DJI | XAG/XAG/P40",
+    "parent_path": "Аграрні дрони DJI | XAG/XAG",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "XAG",
+    "level_3": "P40",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/XAG/V40",
+    "name": "V40",
+    "path": "Аграрні дрони DJI | XAG/XAG/V40",
+    "parent_path": "Аграрні дрони DJI | XAG/XAG",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "XAG",
+    "level_3": "V40",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/XAG/XP 2020",
+    "name": "XP 2020",
+    "path": "Аграрні дрони DJI | XAG/XAG/XP 2020",
+    "parent_path": "Аграрні дрони DJI | XAG/XAG",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "XAG",
+    "level_3": "XP 2020",
+    "children_paths": []
+  },
+  {
+    "id": "Аграрні дрони DJI | XAG/XAG/Аксесуари XAG",
+    "name": "Аксесуари XAG",
+    "path": "Аграрні дрони DJI | XAG/XAG/Аксесуари XAG",
+    "parent_path": "Аграрні дрони DJI | XAG/XAG",
+    "level": 3,
+    "level_1": "Аграрні дрони DJI | XAG",
+    "level_2": "XAG",
+    "level_3": "Аксесуари XAG",
+    "children_paths": []
+  },
+  {
+    "id": "БПЛА",
+    "name": "БПЛА",
+    "path": "БПЛА",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "БПЛА",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "БПЛА/Аксесуари",
+      "БПЛА/Мультикоптери"
+    ]
+  },
+  {
+    "id": "БПЛА/Аксесуари",
+    "name": "Аксесуари",
+    "path": "БПЛА/Аксесуари",
+    "parent_path": "БПЛА",
+    "level": 2,
+    "level_1": "БПЛА",
+    "level_2": "Аксесуари",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "БПЛА/Мультикоптери",
+    "name": "Мультикоптери",
+    "path": "БПЛА/Мультикоптери",
+    "parent_path": "БПЛА",
+    "level": 2,
+    "level_1": "БПЛА",
+    "level_2": "Мультикоптери",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL",
+    "name": "Дрони AUTEL",
+    "path": "Дрони AUTEL",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Дрони AUTEL",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Дрони AUTEL/Аксесуари Autel Robotics",
+      "Дрони AUTEL/Дрони",
+      "Дрони AUTEL/Підсилювачі сигналу"
+    ]
+  },
+  {
+    "id": "Дрони AUTEL/Аксесуари Autel Robotics",
+    "name": "Аксесуари Autel Robotics",
+    "path": "Дрони AUTEL/Аксесуари Autel Robotics",
+    "parent_path": "Дрони AUTEL",
+    "level": 2,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Аксесуари Autel Robotics",
+    "level_3": null,
+    "children_paths": [
+      "Дрони AUTEL/Аксесуари Autel Robotics/EVO II",
+      "Дрони AUTEL/Аксесуари Autel Robotics/EVO Lite",
+      "Дрони AUTEL/Аксесуари Autel Robotics/EVO Max"
+    ]
+  },
+  {
+    "id": "Дрони AUTEL/Аксесуари Autel Robotics/EVO II",
+    "name": "EVO II",
+    "path": "Дрони AUTEL/Аксесуари Autel Robotics/EVO II",
+    "parent_path": "Дрони AUTEL/Аксесуари Autel Robotics",
+    "level": 3,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Аксесуари Autel Robotics",
+    "level_3": "EVO II",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL/Аксесуари Autel Robotics/EVO Lite",
+    "name": "EVO Lite",
+    "path": "Дрони AUTEL/Аксесуари Autel Robotics/EVO Lite",
+    "parent_path": "Дрони AUTEL/Аксесуари Autel Robotics",
+    "level": 3,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Аксесуари Autel Robotics",
+    "level_3": "EVO Lite",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL/Аксесуари Autel Robotics/EVO Max",
+    "name": "EVO Max",
+    "path": "Дрони AUTEL/Аксесуари Autel Robotics/EVO Max",
+    "parent_path": "Дрони AUTEL/Аксесуари Autel Robotics",
+    "level": 3,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Аксесуари Autel Robotics",
+    "level_3": "EVO Max",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL/Дрони",
+    "name": "Дрони",
+    "path": "Дрони AUTEL/Дрони",
+    "parent_path": "Дрони AUTEL",
+    "level": 2,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Дрони",
+    "level_3": null,
+    "children_paths": [
+      "Дрони AUTEL/Дрони/EVO II Series",
+      "Дрони AUTEL/Дрони/EVO Lite Series",
+      "Дрони AUTEL/Дрони/EVO Max Series"
+    ]
+  },
+  {
+    "id": "Дрони AUTEL/Дрони/EVO II Series",
+    "name": "EVO II Series",
+    "path": "Дрони AUTEL/Дрони/EVO II Series",
+    "parent_path": "Дрони AUTEL/Дрони",
+    "level": 3,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Дрони",
+    "level_3": "EVO II Series",
+    "children_paths": [
+      "Дрони AUTEL/Дрони/EVO II Series/EVO II DUAL 640T V2",
+      "Дрони AUTEL/Дрони/EVO II Series/EVO II DUAL 640T V3",
+      "Дрони AUTEL/Дрони/EVO II Series/EVO II Pro V3"
+    ]
+  },
+  {
+    "id": "Дрони AUTEL/Дрони/EVO II Series/EVO II DUAL 640T V2",
+    "name": "EVO II DUAL 640T V2",
+    "path": "Дрони AUTEL/Дрони/EVO II Series/EVO II DUAL 640T V2",
+    "parent_path": "Дрони AUTEL/Дрони/EVO II Series",
+    "level": 4,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Дрони",
+    "level_3": "EVO II Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL/Дрони/EVO II Series/EVO II DUAL 640T V3",
+    "name": "EVO II DUAL 640T V3",
+    "path": "Дрони AUTEL/Дрони/EVO II Series/EVO II DUAL 640T V3",
+    "parent_path": "Дрони AUTEL/Дрони/EVO II Series",
+    "level": 4,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Дрони",
+    "level_3": "EVO II Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL/Дрони/EVO II Series/EVO II Pro V3",
+    "name": "EVO II Pro V3",
+    "path": "Дрони AUTEL/Дрони/EVO II Series/EVO II Pro V3",
+    "parent_path": "Дрони AUTEL/Дрони/EVO II Series",
+    "level": 4,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Дрони",
+    "level_3": "EVO II Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL/Дрони/EVO Lite Series",
+    "name": "EVO Lite Series",
+    "path": "Дрони AUTEL/Дрони/EVO Lite Series",
+    "parent_path": "Дрони AUTEL/Дрони",
+    "level": 3,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Дрони",
+    "level_3": "EVO Lite Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL/Дрони/EVO Max Series",
+    "name": "EVO Max Series",
+    "path": "Дрони AUTEL/Дрони/EVO Max Series",
+    "parent_path": "Дрони AUTEL/Дрони",
+    "level": 3,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Дрони",
+    "level_3": "EVO Max Series",
+    "children_paths": [
+      "Дрони AUTEL/Дрони/EVO Max Series/EVO MAX 4T"
+    ]
+  },
+  {
+    "id": "Дрони AUTEL/Дрони/EVO Max Series/EVO MAX 4T",
+    "name": "EVO MAX 4T",
+    "path": "Дрони AUTEL/Дрони/EVO Max Series/EVO MAX 4T",
+    "parent_path": "Дрони AUTEL/Дрони/EVO Max Series",
+    "level": 4,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Дрони",
+    "level_3": "EVO Max Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони AUTEL/Підсилювачі сигналу",
+    "name": "Підсилювачі сигналу",
+    "path": "Дрони AUTEL/Підсилювачі сигналу",
+    "parent_path": "Дрони AUTEL",
+    "level": 2,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": null,
+    "children_paths": [
+      "Дрони AUTEL/Підсилювачі сигналу/4Hawks"
+    ]
+  },
+  {
+    "id": "Дрони AUTEL/Підсилювачі сигналу/4Hawks",
+    "name": "4Hawks",
+    "path": "Дрони AUTEL/Підсилювачі сигналу/4Hawks",
+    "parent_path": "Дрони AUTEL/Підсилювачі сигналу",
+    "level": 3,
+    "level_1": "Дрони AUTEL",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "4Hawks",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI",
+    "name": "Дрони DJI",
+    "path": "Дрони DJI",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Дрони DJI",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Дрони DJI/Matrice Series",
+      "Дрони DJI/Mavic 3 Enterprise Series",
+      "Дрони DJI/Mavic 3 Series",
+      "Дрони DJI/Інші",
+      "Дрони DJI/Камери Zenmuse",
+      "Дрони DJI/Підсилювачі сигналу",
+      "Дрони DJI/Стабілізатори DJI"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Matrice Series",
+    "name": "Matrice Series",
+    "path": "Дрони DJI/Matrice Series",
+    "parent_path": "Дрони DJI",
+    "level": 2,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": null,
+    "children_paths": [
+      "Дрони DJI/Matrice Series/Matrice 30 Series",
+      "Дрони DJI/Matrice Series/Matrice 300 RTK",
+      "Дрони DJI/Matrice Series/Matrice 350 RTK",
+      "Дрони DJI/Matrice Series/Matrice 4E",
+      "Дрони DJI/Matrice Series/Matrice 4T",
+      "Дрони DJI/Matrice Series/Аксесуари Matrice"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 30 Series",
+    "name": "Matrice 30 Series",
+    "path": "Дрони DJI/Matrice Series/Matrice 30 Series",
+    "parent_path": "Дрони DJI/Matrice Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 30 Series",
+    "children_paths": [
+      "Дрони DJI/Matrice Series/Matrice 30 Series/Matrice 30",
+      "Дрони DJI/Matrice Series/Matrice 30 Series/Matrice 30T",
+      "Дрони DJI/Matrice Series/Matrice 30 Series/Аксесуари"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 30 Series/Matrice 30",
+    "name": "Matrice 30",
+    "path": "Дрони DJI/Matrice Series/Matrice 30 Series/Matrice 30",
+    "parent_path": "Дрони DJI/Matrice Series/Matrice 30 Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 30 Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 30 Series/Matrice 30T",
+    "name": "Matrice 30T",
+    "path": "Дрони DJI/Matrice Series/Matrice 30 Series/Matrice 30T",
+    "parent_path": "Дрони DJI/Matrice Series/Matrice 30 Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 30 Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 30 Series/Аксесуари",
+    "name": "Аксесуари",
+    "path": "Дрони DJI/Matrice Series/Matrice 30 Series/Аксесуари",
+    "parent_path": "Дрони DJI/Matrice Series/Matrice 30 Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 30 Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 300 RTK",
+    "name": "Matrice 300 RTK",
+    "path": "Дрони DJI/Matrice Series/Matrice 300 RTK",
+    "parent_path": "Дрони DJI/Matrice Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 300 RTK",
+    "children_paths": [
+      "Дрони DJI/Matrice Series/Matrice 300 RTK/Аксесуари 300 RTK",
+      "Дрони DJI/Matrice Series/Matrice 300 RTK/Промисловий дрон 300 RTK"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 300 RTK/Аксесуари 300 RTK",
+    "name": "Аксесуари 300 RTK",
+    "path": "Дрони DJI/Matrice Series/Matrice 300 RTK/Аксесуари 300 RTK",
+    "parent_path": "Дрони DJI/Matrice Series/Matrice 300 RTK",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 300 RTK",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 300 RTK/Промисловий дрон 300 RTK",
+    "name": "Промисловий дрон 300 RTK",
+    "path": "Дрони DJI/Matrice Series/Matrice 300 RTK/Промисловий дрон 300 RTK",
+    "parent_path": "Дрони DJI/Matrice Series/Matrice 300 RTK",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 300 RTK",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 350 RTK",
+    "name": "Matrice 350 RTK",
+    "path": "Дрони DJI/Matrice Series/Matrice 350 RTK",
+    "parent_path": "Дрони DJI/Matrice Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 350 RTK",
+    "children_paths": [
+      "Дрони DJI/Matrice Series/Matrice 350 RTK/Аксесуари 350 RTK",
+      "Дрони DJI/Matrice Series/Matrice 350 RTK/Промисловий дрон 350 RTK"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 350 RTK/Аксесуари 350 RTK",
+    "name": "Аксесуари 350 RTK",
+    "path": "Дрони DJI/Matrice Series/Matrice 350 RTK/Аксесуари 350 RTK",
+    "parent_path": "Дрони DJI/Matrice Series/Matrice 350 RTK",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 350 RTK",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 350 RTK/Промисловий дрон 350 RTK",
+    "name": "Промисловий дрон 350 RTK",
+    "path": "Дрони DJI/Matrice Series/Matrice 350 RTK/Промисловий дрон 350 RTK",
+    "parent_path": "Дрони DJI/Matrice Series/Matrice 350 RTK",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 350 RTK",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 4E",
+    "name": "Matrice 4E",
+    "path": "Дрони DJI/Matrice Series/Matrice 4E",
+    "parent_path": "Дрони DJI/Matrice Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 4E",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Matrice 4T",
+    "name": "Matrice 4T",
+    "path": "Дрони DJI/Matrice Series/Matrice 4T",
+    "parent_path": "Дрони DJI/Matrice Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Matrice 4T",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Аксесуари Matrice",
+    "name": "Аксесуари Matrice",
+    "path": "Дрони DJI/Matrice Series/Аксесуари Matrice",
+    "parent_path": "Дрони DJI/Matrice Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Аксесуари Matrice",
+    "children_paths": [
+      "Дрони DJI/Matrice Series/Аксесуари Matrice/Для Matrice 4"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Matrice Series/Аксесуари Matrice/Для Matrice 4",
+    "name": "Для Matrice 4",
+    "path": "Дрони DJI/Matrice Series/Аксесуари Matrice/Для Matrice 4",
+    "parent_path": "Дрони DJI/Matrice Series/Аксесуари Matrice",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Matrice Series",
+    "level_3": "Аксесуари Matrice",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Enterprise Series",
+    "name": "Mavic 3 Enterprise Series",
+    "path": "Дрони DJI/Mavic 3 Enterprise Series",
+    "parent_path": "Дрони DJI",
+    "level": 2,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Enterprise Series",
+    "level_3": null,
+    "children_paths": [
+      "Дрони DJI/Mavic 3 Enterprise Series/Mavic 3E",
+      "Дрони DJI/Mavic 3 Enterprise Series/Mavic 3T",
+      "Дрони DJI/Mavic 3 Enterprise Series/Аксесуари Enterprise"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Enterprise Series/Mavic 3E",
+    "name": "Mavic 3E",
+    "path": "Дрони DJI/Mavic 3 Enterprise Series/Mavic 3E",
+    "parent_path": "Дрони DJI/Mavic 3 Enterprise Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Enterprise Series",
+    "level_3": "Mavic 3E",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Enterprise Series/Mavic 3T",
+    "name": "Mavic 3T",
+    "path": "Дрони DJI/Mavic 3 Enterprise Series/Mavic 3T",
+    "parent_path": "Дрони DJI/Mavic 3 Enterprise Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Enterprise Series",
+    "level_3": "Mavic 3T",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Enterprise Series/Аксесуари Enterprise",
+    "name": "Аксесуари Enterprise",
+    "path": "Дрони DJI/Mavic 3 Enterprise Series/Аксесуари Enterprise",
+    "parent_path": "Дрони DJI/Mavic 3 Enterprise Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Enterprise Series",
+    "level_3": "Аксесуари Enterprise",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Series",
+    "name": "Mavic 3 Series",
+    "path": "Дрони DJI/Mavic 3 Series",
+    "parent_path": "Дрони DJI",
+    "level": 2,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Series",
+    "level_3": null,
+    "children_paths": [
+      "Дрони DJI/Mavic 3 Series/Mavic 3",
+      "Дрони DJI/Mavic 3 Series/Mavic 3 Classic",
+      "Дрони DJI/Mavic 3 Series/Mavic 3 FMC",
+      "Дрони DJI/Mavic 3 Series/Mavic 3 Pro",
+      "Дрони DJI/Mavic 3 Series/Mavic 3 Pro Cine",
+      "Дрони DJI/Mavic 3 Series/Mavic 3 Pro FMC",
+      "Дрони DJI/Mavic 3 Series/Аксесуари Mavic 3 Series"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Series/Mavic 3",
+    "name": "Mavic 3",
+    "path": "Дрони DJI/Mavic 3 Series/Mavic 3",
+    "parent_path": "Дрони DJI/Mavic 3 Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Series",
+    "level_3": "Mavic 3",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Series/Mavic 3 Classic",
+    "name": "Mavic 3 Classic",
+    "path": "Дрони DJI/Mavic 3 Series/Mavic 3 Classic",
+    "parent_path": "Дрони DJI/Mavic 3 Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Series",
+    "level_3": "Mavic 3 Classic",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Series/Mavic 3 FMC",
+    "name": "Mavic 3 FMC",
+    "path": "Дрони DJI/Mavic 3 Series/Mavic 3 FMC",
+    "parent_path": "Дрони DJI/Mavic 3 Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Series",
+    "level_3": "Mavic 3 FMC",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Series/Mavic 3 Pro",
+    "name": "Mavic 3 Pro",
+    "path": "Дрони DJI/Mavic 3 Series/Mavic 3 Pro",
+    "parent_path": "Дрони DJI/Mavic 3 Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Series",
+    "level_3": "Mavic 3 Pro",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Series/Mavic 3 Pro Cine",
+    "name": "Mavic 3 Pro Cine",
+    "path": "Дрони DJI/Mavic 3 Series/Mavic 3 Pro Cine",
+    "parent_path": "Дрони DJI/Mavic 3 Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Series",
+    "level_3": "Mavic 3 Pro Cine",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Series/Mavic 3 Pro FMC",
+    "name": "Mavic 3 Pro FMC",
+    "path": "Дрони DJI/Mavic 3 Series/Mavic 3 Pro FMC",
+    "parent_path": "Дрони DJI/Mavic 3 Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Series",
+    "level_3": "Mavic 3 Pro FMC",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Mavic 3 Series/Аксесуари Mavic 3 Series",
+    "name": "Аксесуари Mavic 3 Series",
+    "path": "Дрони DJI/Mavic 3 Series/Аксесуари Mavic 3 Series",
+    "parent_path": "Дрони DJI/Mavic 3 Series",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Mavic 3 Series",
+    "level_3": "Аксесуари Mavic 3 Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Інші",
+    "name": "Інші",
+    "path": "Дрони DJI/Інші",
+    "parent_path": "Дрони DJI",
+    "level": 2,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": null,
+    "children_paths": [
+      "Дрони DJI/Інші/DJI Air 3",
+      "Дрони DJI/Інші/FPV Series",
+      "Дрони DJI/Інші/Mini 3 Pro",
+      "Дрони DJI/Інші/Mini 4 Pro",
+      "Дрони DJI/Інші/Інші аксесуари"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Інші/DJI Air 3",
+    "name": "DJI Air 3",
+    "path": "Дрони DJI/Інші/DJI Air 3",
+    "parent_path": "Дрони DJI/Інші",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": "DJI Air 3",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Інші/FPV Series",
+    "name": "FPV Series",
+    "path": "Дрони DJI/Інші/FPV Series",
+    "parent_path": "Дрони DJI/Інші",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": "FPV Series",
+    "children_paths": [
+      "Дрони DJI/Інші/FPV Series/DJI FPV",
+      "Дрони DJI/Інші/FPV Series/Аксесуари DJI FPV"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Інші/FPV Series/DJI FPV",
+    "name": "DJI FPV",
+    "path": "Дрони DJI/Інші/FPV Series/DJI FPV",
+    "parent_path": "Дрони DJI/Інші/FPV Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": "FPV Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Інші/FPV Series/Аксесуари DJI FPV",
+    "name": "Аксесуари DJI FPV",
+    "path": "Дрони DJI/Інші/FPV Series/Аксесуари DJI FPV",
+    "parent_path": "Дрони DJI/Інші/FPV Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": "FPV Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Інші/Mini 3 Pro",
+    "name": "Mini 3 Pro",
+    "path": "Дрони DJI/Інші/Mini 3 Pro",
+    "parent_path": "Дрони DJI/Інші",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": "Mini 3 Pro",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Інші/Mini 4 Pro",
+    "name": "Mini 4 Pro",
+    "path": "Дрони DJI/Інші/Mini 4 Pro",
+    "parent_path": "Дрони DJI/Інші",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": "Mini 4 Pro",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Інші/Інші аксесуари",
+    "name": "Інші аксесуари",
+    "path": "Дрони DJI/Інші/Інші аксесуари",
+    "parent_path": "Дрони DJI/Інші",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": "Інші аксесуари",
+    "children_paths": [
+      "Дрони DJI/Інші/Інші аксесуари/Інші аксесуари для Mavic 2"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Інші/Інші аксесуари/Інші аксесуари для Mavic 2",
+    "name": "Інші аксесуари для Mavic 2",
+    "path": "Дрони DJI/Інші/Інші аксесуари/Інші аксесуари для Mavic 2",
+    "parent_path": "Дрони DJI/Інші/Інші аксесуари",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Інші",
+    "level_3": "Інші аксесуари",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse",
+    "name": "Камери Zenmuse",
+    "path": "Дрони DJI/Камери Zenmuse",
+    "parent_path": "Дрони DJI",
+    "level": 2,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": null,
+    "children_paths": [
+      "Дрони DJI/Камери Zenmuse/H20",
+      "Дрони DJI/Камери Zenmuse/H20N",
+      "Дрони DJI/Камери Zenmuse/H20T",
+      "Дрони DJI/Камери Zenmuse/H30",
+      "Дрони DJI/Камери Zenmuse/H30T",
+      "Дрони DJI/Камери Zenmuse/L1",
+      "Дрони DJI/Камери Zenmuse/L2",
+      "Дрони DJI/Камери Zenmuse/P1"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse/H20",
+    "name": "H20",
+    "path": "Дрони DJI/Камери Zenmuse/H20",
+    "parent_path": "Дрони DJI/Камери Zenmuse",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": "H20",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse/H20N",
+    "name": "H20N",
+    "path": "Дрони DJI/Камери Zenmuse/H20N",
+    "parent_path": "Дрони DJI/Камери Zenmuse",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": "H20N",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse/H20T",
+    "name": "H20T",
+    "path": "Дрони DJI/Камери Zenmuse/H20T",
+    "parent_path": "Дрони DJI/Камери Zenmuse",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": "H20T",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse/H30",
+    "name": "H30",
+    "path": "Дрони DJI/Камери Zenmuse/H30",
+    "parent_path": "Дрони DJI/Камери Zenmuse",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": "H30",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse/H30T",
+    "name": "H30T",
+    "path": "Дрони DJI/Камери Zenmuse/H30T",
+    "parent_path": "Дрони DJI/Камери Zenmuse",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": "H30T",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse/L1",
+    "name": "L1",
+    "path": "Дрони DJI/Камери Zenmuse/L1",
+    "parent_path": "Дрони DJI/Камери Zenmuse",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": "L1",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse/L2",
+    "name": "L2",
+    "path": "Дрони DJI/Камери Zenmuse/L2",
+    "parent_path": "Дрони DJI/Камери Zenmuse",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": "L2",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Камери Zenmuse/P1",
+    "name": "P1",
+    "path": "Дрони DJI/Камери Zenmuse/P1",
+    "parent_path": "Дрони DJI/Камери Zenmuse",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Камери Zenmuse",
+    "level_3": "P1",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу",
+    "name": "Підсилювачі сигналу",
+    "path": "Дрони DJI/Підсилювачі сигналу",
+    "parent_path": "Дрони DJI",
+    "level": 2,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": null,
+    "children_paths": [
+      "Дрони DJI/Підсилювачі сигналу/4Hawks",
+      "Дрони DJI/Підсилювачі сигналу/Acasom",
+      "Дрони DJI/Підсилювачі сигналу/Alientech"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/4Hawks",
+    "name": "4Hawks",
+    "path": "Дрони DJI/Підсилювачі сигналу/4Hawks",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "4Hawks",
+    "children_paths": [
+      "Дрони DJI/Підсилювачі сигналу/4Hawks/Аксесуари",
+      "Дрони DJI/Підсилювачі сигналу/4Hawks/Підсилювачи сигналу"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/4Hawks/Аксесуари",
+    "name": "Аксесуари",
+    "path": "Дрони DJI/Підсилювачі сигналу/4Hawks/Аксесуари",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу/4Hawks",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "4Hawks",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/4Hawks/Підсилювачи сигналу",
+    "name": "Підсилювачи сигналу",
+    "path": "Дрони DJI/Підсилювачі сигналу/4Hawks/Підсилювачи сигналу",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу/4Hawks",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "4Hawks",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/Acasom",
+    "name": "Acasom",
+    "path": "Дрони DJI/Підсилювачі сигналу/Acasom",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "Acasom",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/Alientech",
+    "name": "Alientech",
+    "path": "Дрони DJI/Підсилювачі сигналу/Alientech",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "Alientech",
+    "children_paths": [
+      "Дрони DJI/Підсилювачі сигналу/Alientech/Deimox",
+      "Дрони DJI/Підсилювачі сигналу/Alientech/Duo II",
+      "Дрони DJI/Підсилювачі сигналу/Alientech/Duo III",
+      "Дрони DJI/Підсилювачі сигналу/Alientech/Аксесуари"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/Alientech/Deimox",
+    "name": "Deimox",
+    "path": "Дрони DJI/Підсилювачі сигналу/Alientech/Deimox",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу/Alientech",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "Alientech",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/Alientech/Duo II",
+    "name": "Duo II",
+    "path": "Дрони DJI/Підсилювачі сигналу/Alientech/Duo II",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу/Alientech",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "Alientech",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/Alientech/Duo III",
+    "name": "Duo III",
+    "path": "Дрони DJI/Підсилювачі сигналу/Alientech/Duo III",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу/Alientech",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "Alientech",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Підсилювачі сигналу/Alientech/Аксесуари",
+    "name": "Аксесуари",
+    "path": "Дрони DJI/Підсилювачі сигналу/Alientech/Аксесуари",
+    "parent_path": "Дрони DJI/Підсилювачі сигналу/Alientech",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Підсилювачі сигналу",
+    "level_3": "Alientech",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI",
+    "name": "Стабілізатори DJI",
+    "path": "Дрони DJI/Стабілізатори DJI",
+    "parent_path": "Дрони DJI",
+    "level": 2,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": null,
+    "children_paths": [
+      "Дрони DJI/Стабілізатори DJI/Osmo Series",
+      "Дрони DJI/Стабілізатори DJI/Ronin Series"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI/Osmo Series",
+    "name": "Osmo Series",
+    "path": "Дрони DJI/Стабілізатори DJI/Osmo Series",
+    "parent_path": "Дрони DJI/Стабілізатори DJI",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": "Osmo Series",
+    "children_paths": [
+      "Дрони DJI/Стабілізатори DJI/Osmo Series/Osmo Action 2"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI/Osmo Series/Osmo Action 2",
+    "name": "Osmo Action 2",
+    "path": "Дрони DJI/Стабілізатори DJI/Osmo Series/Osmo Action 2",
+    "parent_path": "Дрони DJI/Стабілізатори DJI/Osmo Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": "Osmo Series",
+    "children_paths": [
+      "Дрони DJI/Стабілізатори DJI/Osmo Series/Osmo Action 2/Аксесуари"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI/Osmo Series/Osmo Action 2/Аксесуари",
+    "name": "Аксесуари",
+    "path": "Дрони DJI/Стабілізатори DJI/Osmo Series/Osmo Action 2/Аксесуари",
+    "parent_path": "Дрони DJI/Стабілізатори DJI/Osmo Series/Osmo Action 2",
+    "level": 5,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": "Osmo Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI/Ronin Series",
+    "name": "Ronin Series",
+    "path": "Дрони DJI/Стабілізатори DJI/Ronin Series",
+    "parent_path": "Дрони DJI/Стабілізатори DJI",
+    "level": 3,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": "Ronin Series",
+    "children_paths": [
+      "Дрони DJI/Стабілізатори DJI/Ronin Series/RS2",
+      "Дрони DJI/Стабілізатори DJI/Ronin Series/RS3",
+      "Дрони DJI/Стабілізатори DJI/Ronin Series/RS4"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS2",
+    "name": "RS2",
+    "path": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS2",
+    "parent_path": "Дрони DJI/Стабілізатори DJI/Ronin Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": "Ronin Series",
+    "children_paths": [
+      "Дрони DJI/Стабілізатори DJI/Ronin Series/RS2/Аксесуари"
+    ]
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS2/Аксесуари",
+    "name": "Аксесуари",
+    "path": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS2/Аксесуари",
+    "parent_path": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS2",
+    "level": 5,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": "Ronin Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS3",
+    "name": "RS3",
+    "path": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS3",
+    "parent_path": "Дрони DJI/Стабілізатори DJI/Ronin Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": "Ronin Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS4",
+    "name": "RS4",
+    "path": "Дрони DJI/Стабілізатори DJI/Ronin Series/RS4",
+    "parent_path": "Дрони DJI/Стабілізатори DJI/Ronin Series",
+    "level": 4,
+    "level_1": "Дрони DJI",
+    "level_2": "Стабілізатори DJI",
+    "level_3": "Ronin Series",
+    "children_paths": []
+  },
+  {
+    "id": "Дрони FPV",
+    "name": "Дрони FPV",
+    "path": "Дрони FPV",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Дрони FPV",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Дрони FPV/Акумулятори для дронів FPV"
+    ]
+  },
+  {
+    "id": "Дрони FPV/Акумулятори для дронів FPV",
+    "name": "Акумулятори для дронів FPV",
+    "path": "Дрони FPV/Акумулятори для дронів FPV",
+    "parent_path": "Дрони FPV",
+    "level": 2,
+    "level_1": "Дрони FPV",
+    "level_2": "Акумулятори для дронів FPV",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка",
+    "name": "Електроніка",
+    "path": "Електроніка",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Електроніка",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Електроніка/Екшн-камери",
+      "Електроніка/Жорсткі диски",
+      "Електроніка/Карти пам'яті",
+      "Електроніка/Ноутбуки",
+      "Електроніка/Проектори"
+    ]
+  },
+  {
+    "id": "Електроніка/Екшн-камери",
+    "name": "Екшн-камери",
+    "path": "Електроніка/Екшн-камери",
+    "parent_path": "Електроніка",
+    "level": 2,
+    "level_1": "Електроніка",
+    "level_2": "Екшн-камери",
+    "level_3": null,
+    "children_paths": [
+      "Електроніка/Екшн-камери/GoPro"
+    ]
+  },
+  {
+    "id": "Електроніка/Екшн-камери/GoPro",
+    "name": "GoPro",
+    "path": "Електроніка/Екшн-камери/GoPro",
+    "parent_path": "Електроніка/Екшн-камери",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Екшн-камери",
+    "level_3": "GoPro",
+    "children_paths": [
+      "Електроніка/Екшн-камери/GoPro/Аксесуари GoPro",
+      "Електроніка/Екшн-камери/GoPro/Екшн-камери"
+    ]
+  },
+  {
+    "id": "Електроніка/Екшн-камери/GoPro/Аксесуари GoPro",
+    "name": "Аксесуари GoPro",
+    "path": "Електроніка/Екшн-камери/GoPro/Аксесуари GoPro",
+    "parent_path": "Електроніка/Екшн-камери/GoPro",
+    "level": 4,
+    "level_1": "Електроніка",
+    "level_2": "Екшн-камери",
+    "level_3": "GoPro",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Екшн-камери/GoPro/Екшн-камери",
+    "name": "Екшн-камери",
+    "path": "Електроніка/Екшн-камери/GoPro/Екшн-камери",
+    "parent_path": "Електроніка/Екшн-камери/GoPro",
+    "level": 4,
+    "level_1": "Електроніка",
+    "level_2": "Екшн-камери",
+    "level_3": "GoPro",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Жорсткі диски",
+    "name": "Жорсткі диски",
+    "path": "Електроніка/Жорсткі диски",
+    "parent_path": "Електроніка",
+    "level": 2,
+    "level_1": "Електроніка",
+    "level_2": "Жорсткі диски",
+    "level_3": null,
+    "children_paths": [
+      "Електроніка/Жорсткі диски/Lacie",
+      "Електроніка/Жорсткі диски/Seagate",
+      "Електроніка/Жорсткі диски/Toshiba",
+      "Електроніка/Жорсткі диски/Western Digital"
+    ]
+  },
+  {
+    "id": "Електроніка/Жорсткі диски/Lacie",
+    "name": "Lacie",
+    "path": "Електроніка/Жорсткі диски/Lacie",
+    "parent_path": "Електроніка/Жорсткі диски",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Жорсткі диски",
+    "level_3": "Lacie",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Жорсткі диски/Seagate",
+    "name": "Seagate",
+    "path": "Електроніка/Жорсткі диски/Seagate",
+    "parent_path": "Електроніка/Жорсткі диски",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Жорсткі диски",
+    "level_3": "Seagate",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Жорсткі диски/Toshiba",
+    "name": "Toshiba",
+    "path": "Електроніка/Жорсткі диски/Toshiba",
+    "parent_path": "Електроніка/Жорсткі диски",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Жорсткі диски",
+    "level_3": "Toshiba",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Жорсткі диски/Western Digital",
+    "name": "Western Digital",
+    "path": "Електроніка/Жорсткі диски/Western Digital",
+    "parent_path": "Електроніка/Жорсткі диски",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Жорсткі диски",
+    "level_3": "Western Digital",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Карти пам'яті",
+    "name": "Карти пам'яті",
+    "path": "Електроніка/Карти пам'яті",
+    "parent_path": "Електроніка",
+    "level": 2,
+    "level_1": "Електроніка",
+    "level_2": "Карти пам'яті",
+    "level_3": null,
+    "children_paths": [
+      "Електроніка/Карти пам'яті/Lexar",
+      "Електроніка/Карти пам'яті/Samsung",
+      "Електроніка/Карти пам'яті/Western Digital"
+    ]
+  },
+  {
+    "id": "Електроніка/Карти пам'яті/Lexar",
+    "name": "Lexar",
+    "path": "Електроніка/Карти пам'яті/Lexar",
+    "parent_path": "Електроніка/Карти пам'яті",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Карти пам'яті",
+    "level_3": "Lexar",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Карти пам'яті/Samsung",
+    "name": "Samsung",
+    "path": "Електроніка/Карти пам'яті/Samsung",
+    "parent_path": "Електроніка/Карти пам'яті",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Карти пам'яті",
+    "level_3": "Samsung",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Карти пам'яті/Western Digital",
+    "name": "Western Digital",
+    "path": "Електроніка/Карти пам'яті/Western Digital",
+    "parent_path": "Електроніка/Карти пам'яті",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Карти пам'яті",
+    "level_3": "Western Digital",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Ноутбуки",
+    "name": "Ноутбуки",
+    "path": "Електроніка/Ноутбуки",
+    "parent_path": "Електроніка",
+    "level": 2,
+    "level_1": "Електроніка",
+    "level_2": "Ноутбуки",
+    "level_3": null,
+    "children_paths": [
+      "Електроніка/Ноутбуки/Dream Machines",
+      "Електроніка/Ноутбуки/Lenovo"
+    ]
+  },
+  {
+    "id": "Електроніка/Ноутбуки/Dream Machines",
+    "name": "Dream Machines",
+    "path": "Електроніка/Ноутбуки/Dream Machines",
+    "parent_path": "Електроніка/Ноутбуки",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Ноутбуки",
+    "level_3": "Dream Machines",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Ноутбуки/Lenovo",
+    "name": "Lenovo",
+    "path": "Електроніка/Ноутбуки/Lenovo",
+    "parent_path": "Електроніка/Ноутбуки",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Ноутбуки",
+    "level_3": "Lenovo",
+    "children_paths": [
+      "Електроніка/Ноутбуки/Lenovo/LOQ"
+    ]
+  },
+  {
+    "id": "Електроніка/Ноутбуки/Lenovo/LOQ",
+    "name": "LOQ",
+    "path": "Електроніка/Ноутбуки/Lenovo/LOQ",
+    "parent_path": "Електроніка/Ноутбуки/Lenovo",
+    "level": 4,
+    "level_1": "Електроніка",
+    "level_2": "Ноутбуки",
+    "level_3": "Lenovo",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Проектори",
+    "name": "Проектори",
+    "path": "Електроніка/Проектори",
+    "parent_path": "Електроніка",
+    "level": 2,
+    "level_1": "Електроніка",
+    "level_2": "Проектори",
+    "level_3": null,
+    "children_paths": [
+      "Електроніка/Проектори/XGMI"
+    ]
+  },
+  {
+    "id": "Електроніка/Проектори/XGMI",
+    "name": "XGMI",
+    "path": "Електроніка/Проектори/XGMI",
+    "parent_path": "Електроніка/Проектори",
+    "level": 3,
+    "level_1": "Електроніка",
+    "level_2": "Проектори",
+    "level_3": "XGMI",
+    "children_paths": [
+      "Електроніка/Проектори/XGMI/Аксесуари для проекторів",
+      "Електроніка/Проектори/XGMI/Портативні проектори",
+      "Електроніка/Проектори/XGMI/Проектори для дому"
+    ]
+  },
+  {
+    "id": "Електроніка/Проектори/XGMI/Аксесуари для проекторів",
+    "name": "Аксесуари для проекторів",
+    "path": "Електроніка/Проектори/XGMI/Аксесуари для проекторів",
+    "parent_path": "Електроніка/Проектори/XGMI",
+    "level": 4,
+    "level_1": "Електроніка",
+    "level_2": "Проектори",
+    "level_3": "XGMI",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Проектори/XGMI/Портативні проектори",
+    "name": "Портативні проектори",
+    "path": "Електроніка/Проектори/XGMI/Портативні проектори",
+    "parent_path": "Електроніка/Проектори/XGMI",
+    "level": 4,
+    "level_1": "Електроніка",
+    "level_2": "Проектори",
+    "level_3": "XGMI",
+    "children_paths": []
+  },
+  {
+    "id": "Електроніка/Проектори/XGMI/Проектори для дому",
+    "name": "Проектори для дому",
+    "path": "Електроніка/Проектори/XGMI/Проектори для дому",
+    "parent_path": "Електроніка/Проектори/XGMI",
+    "level": 4,
+    "level_1": "Електроніка",
+    "level_2": "Проектори",
+    "level_3": "XGMI",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції",
+    "name": "Зарядні станції",
+    "path": "Зарядні станції",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Зарядні станції",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Зарядні станції/Bluetti",
+      "Зарядні станції/DJI",
+      "Зарядні станції/EcoFlow",
+      "Зарядні станції/Jackery",
+      "Зарядні станції/Аксесуари",
+      "Зарядні станції/Портативне освітлення",
+      "Зарядні станції/Сонячні панелі"
+    ]
+  },
+  {
+    "id": "Зарядні станції/Bluetti",
+    "name": "Bluetti",
+    "path": "Зарядні станції/Bluetti",
+    "parent_path": "Зарядні станції",
+    "level": 2,
+    "level_1": "Зарядні станції",
+    "level_2": "Bluetti",
+    "level_3": null,
+    "children_paths": [
+      "Зарядні станції/Bluetti/Комплекти",
+      "Зарядні станції/Bluetti/Портативні зарядні станції"
+    ]
+  },
+  {
+    "id": "Зарядні станції/Bluetti/Комплекти",
+    "name": "Комплекти",
+    "path": "Зарядні станції/Bluetti/Комплекти",
+    "parent_path": "Зарядні станції/Bluetti",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Bluetti",
+    "level_3": "Комплекти",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Bluetti/Портативні зарядні станції",
+    "name": "Портативні зарядні станції",
+    "path": "Зарядні станції/Bluetti/Портативні зарядні станції",
+    "parent_path": "Зарядні станції/Bluetti",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Bluetti",
+    "level_3": "Портативні зарядні станції",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/DJI",
+    "name": "DJI",
+    "path": "Зарядні станції/DJI",
+    "parent_path": "Зарядні станції",
+    "level": 2,
+    "level_1": "Зарядні станції",
+    "level_2": "DJI",
+    "level_3": null,
+    "children_paths": [
+      "Зарядні станції/DJI/Power 1000"
+    ]
+  },
+  {
+    "id": "Зарядні станції/DJI/Power 1000",
+    "name": "Power 1000",
+    "path": "Зарядні станції/DJI/Power 1000",
+    "parent_path": "Зарядні станції/DJI",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "DJI",
+    "level_3": "Power 1000",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/EcoFlow",
+    "name": "EcoFlow",
+    "path": "Зарядні станції/EcoFlow",
+    "parent_path": "Зарядні станції",
+    "level": 2,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": null,
+    "children_paths": [
+      "Зарядні станції/EcoFlow/Power kits",
+      "Зарядні станції/EcoFlow/Розумні пристрої",
+      "Зарядні станції/EcoFlow/Серія Delta",
+      "Зарядні станції/EcoFlow/Серія Delta 2",
+      "Зарядні станції/EcoFlow/Серія Delta 3",
+      "Зарядні станції/EcoFlow/Серія River",
+      "Зарядні станції/EcoFlow/Серія River 2",
+      "Зарядні станції/EcoFlow/Серія River 3"
+    ]
+  },
+  {
+    "id": "Зарядні станції/EcoFlow/Power kits",
+    "name": "Power kits",
+    "path": "Зарядні станції/EcoFlow/Power kits",
+    "parent_path": "Зарядні станції/EcoFlow",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": "Power kits",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/EcoFlow/Розумні пристрої",
+    "name": "Розумні пристрої",
+    "path": "Зарядні станції/EcoFlow/Розумні пристрої",
+    "parent_path": "Зарядні станції/EcoFlow",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": "Розумні пристрої",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/EcoFlow/Серія Delta",
+    "name": "Серія Delta",
+    "path": "Зарядні станції/EcoFlow/Серія Delta",
+    "parent_path": "Зарядні станції/EcoFlow",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": "Серія Delta",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/EcoFlow/Серія Delta 2",
+    "name": "Серія Delta 2",
+    "path": "Зарядні станції/EcoFlow/Серія Delta 2",
+    "parent_path": "Зарядні станції/EcoFlow",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": "Серія Delta 2",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/EcoFlow/Серія Delta 3",
+    "name": "Серія Delta 3",
+    "path": "Зарядні станції/EcoFlow/Серія Delta 3",
+    "parent_path": "Зарядні станції/EcoFlow",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": "Серія Delta 3",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/EcoFlow/Серія River",
+    "name": "Серія River",
+    "path": "Зарядні станції/EcoFlow/Серія River",
+    "parent_path": "Зарядні станції/EcoFlow",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": "Серія River",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/EcoFlow/Серія River 2",
+    "name": "Серія River 2",
+    "path": "Зарядні станції/EcoFlow/Серія River 2",
+    "parent_path": "Зарядні станції/EcoFlow",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": "Серія River 2",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/EcoFlow/Серія River 3",
+    "name": "Серія River 3",
+    "path": "Зарядні станції/EcoFlow/Серія River 3",
+    "parent_path": "Зарядні станції/EcoFlow",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "EcoFlow",
+    "level_3": "Серія River 3",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Jackery",
+    "name": "Jackery",
+    "path": "Зарядні станції/Jackery",
+    "parent_path": "Зарядні станції",
+    "level": 2,
+    "level_1": "Зарядні станції",
+    "level_2": "Jackery",
+    "level_3": null,
+    "children_paths": [
+      "Зарядні станції/Jackery/Explorer",
+      "Зарядні станції/Jackery/Explorer PLS",
+      "Зарядні станції/Jackery/Explorer Pro",
+      "Зарядні станції/Jackery/Комплекти"
+    ]
+  },
+  {
+    "id": "Зарядні станції/Jackery/Explorer",
+    "name": "Explorer",
+    "path": "Зарядні станції/Jackery/Explorer",
+    "parent_path": "Зарядні станції/Jackery",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Jackery",
+    "level_3": "Explorer",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Jackery/Explorer PLS",
+    "name": "Explorer PLS",
+    "path": "Зарядні станції/Jackery/Explorer PLS",
+    "parent_path": "Зарядні станції/Jackery",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Jackery",
+    "level_3": "Explorer PLS",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Jackery/Explorer Pro",
+    "name": "Explorer Pro",
+    "path": "Зарядні станції/Jackery/Explorer Pro",
+    "parent_path": "Зарядні станції/Jackery",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Jackery",
+    "level_3": "Explorer Pro",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Jackery/Комплекти",
+    "name": "Комплекти",
+    "path": "Зарядні станції/Jackery/Комплекти",
+    "parent_path": "Зарядні станції/Jackery",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Jackery",
+    "level_3": "Комплекти",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Аксесуари",
+    "name": "Аксесуари",
+    "path": "Зарядні станції/Аксесуари",
+    "parent_path": "Зарядні станції",
+    "level": 2,
+    "level_1": "Зарядні станції",
+    "level_2": "Аксесуари",
+    "level_3": null,
+    "children_paths": [
+      "Зарядні станції/Аксесуари/Bluetti",
+      "Зарядні станції/Аксесуари/EcoFlow",
+      "Зарядні станції/Аксесуари/Jackery"
+    ]
+  },
+  {
+    "id": "Зарядні станції/Аксесуари/Bluetti",
+    "name": "Bluetti",
+    "path": "Зарядні станції/Аксесуари/Bluetti",
+    "parent_path": "Зарядні станції/Аксесуари",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Аксесуари",
+    "level_3": "Bluetti",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Аксесуари/EcoFlow",
+    "name": "EcoFlow",
+    "path": "Зарядні станції/Аксесуари/EcoFlow",
+    "parent_path": "Зарядні станції/Аксесуари",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Аксесуари",
+    "level_3": "EcoFlow",
+    "children_paths": [
+      "Зарядні станції/Аксесуари/EcoFlow/EcoFlow Delta Pro",
+      "Зарядні станції/Аксесуари/EcoFlow/EcoFlow River",
+      "Зарядні станції/Аксесуари/EcoFlow/EcoFlow River 2"
+    ]
+  },
+  {
+    "id": "Зарядні станції/Аксесуари/EcoFlow/EcoFlow Delta Pro",
+    "name": "EcoFlow Delta Pro",
+    "path": "Зарядні станції/Аксесуари/EcoFlow/EcoFlow Delta Pro",
+    "parent_path": "Зарядні станції/Аксесуари/EcoFlow",
+    "level": 4,
+    "level_1": "Зарядні станції",
+    "level_2": "Аксесуари",
+    "level_3": "EcoFlow",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Аксесуари/EcoFlow/EcoFlow River",
+    "name": "EcoFlow River",
+    "path": "Зарядні станції/Аксесуари/EcoFlow/EcoFlow River",
+    "parent_path": "Зарядні станції/Аксесуари/EcoFlow",
+    "level": 4,
+    "level_1": "Зарядні станції",
+    "level_2": "Аксесуари",
+    "level_3": "EcoFlow",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Аксесуари/EcoFlow/EcoFlow River 2",
+    "name": "EcoFlow River 2",
+    "path": "Зарядні станції/Аксесуари/EcoFlow/EcoFlow River 2",
+    "parent_path": "Зарядні станції/Аксесуари/EcoFlow",
+    "level": 4,
+    "level_1": "Зарядні станції",
+    "level_2": "Аксесуари",
+    "level_3": "EcoFlow",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Аксесуари/Jackery",
+    "name": "Jackery",
+    "path": "Зарядні станції/Аксесуари/Jackery",
+    "parent_path": "Зарядні станції/Аксесуари",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Аксесуари",
+    "level_3": "Jackery",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Портативне освітлення",
+    "name": "Портативне освітлення",
+    "path": "Зарядні станції/Портативне освітлення",
+    "parent_path": "Зарядні станції",
+    "level": 2,
+    "level_1": "Зарядні станції",
+    "level_2": "Портативне освітлення",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Сонячні панелі",
+    "name": "Сонячні панелі",
+    "path": "Зарядні станції/Сонячні панелі",
+    "parent_path": "Зарядні станції",
+    "level": 2,
+    "level_1": "Зарядні станції",
+    "level_2": "Сонячні панелі",
+    "level_3": null,
+    "children_paths": [
+      "Зарядні станції/Сонячні панелі/Bluetti",
+      "Зарядні станції/Сонячні панелі/EcoFlow",
+      "Зарядні станції/Сонячні панелі/Jackery"
+    ]
+  },
+  {
+    "id": "Зарядні станції/Сонячні панелі/Bluetti",
+    "name": "Bluetti",
+    "path": "Зарядні станції/Сонячні панелі/Bluetti",
+    "parent_path": "Зарядні станції/Сонячні панелі",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Сонячні панелі",
+    "level_3": "Bluetti",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Сонячні панелі/EcoFlow",
+    "name": "EcoFlow",
+    "path": "Зарядні станції/Сонячні панелі/EcoFlow",
+    "parent_path": "Зарядні станції/Сонячні панелі",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Сонячні панелі",
+    "level_3": "EcoFlow",
+    "children_paths": [
+      "Зарядні станції/Сонячні панелі/EcoFlow/Портативні панелі",
+      "Зарядні станції/Сонячні панелі/EcoFlow/Стаціонарні панелі"
+    ]
+  },
+  {
+    "id": "Зарядні станції/Сонячні панелі/EcoFlow/Портативні панелі",
+    "name": "Портативні панелі",
+    "path": "Зарядні станції/Сонячні панелі/EcoFlow/Портативні панелі",
+    "parent_path": "Зарядні станції/Сонячні панелі/EcoFlow",
+    "level": 4,
+    "level_1": "Зарядні станції",
+    "level_2": "Сонячні панелі",
+    "level_3": "EcoFlow",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Сонячні панелі/EcoFlow/Стаціонарні панелі",
+    "name": "Стаціонарні панелі",
+    "path": "Зарядні станції/Сонячні панелі/EcoFlow/Стаціонарні панелі",
+    "parent_path": "Зарядні станції/Сонячні панелі/EcoFlow",
+    "level": 4,
+    "level_1": "Зарядні станції",
+    "level_2": "Сонячні панелі",
+    "level_3": "EcoFlow",
+    "children_paths": []
+  },
+  {
+    "id": "Зарядні станції/Сонячні панелі/Jackery",
+    "name": "Jackery",
+    "path": "Зарядні станції/Сонячні панелі/Jackery",
+    "parent_path": "Зарядні станції/Сонячні панелі",
+    "level": 3,
+    "level_1": "Зарядні станції",
+    "level_2": "Сонячні панелі",
+    "level_3": "Jackery",
+    "children_paths": []
+  },
+  {
+    "id": "ПНБ та Тепловізори",
+    "name": "ПНБ та Тепловізори",
+    "path": "ПНБ та Тепловізори",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "ПНБ та Тепловізори/Аксесуари",
+      "ПНБ та Тепловізори/Оптичні приціли",
+      "ПНБ та Тепловізори/Прилади нічного бачення",
+      "ПНБ та Тепловізори/Тепловізори",
+      "ПНБ та Тепловізори/Термограф"
+    ]
+  },
+  {
+    "id": "ПНБ та Тепловізори/Аксесуари",
+    "name": "Аксесуари",
+    "path": "ПНБ та Тепловізори/Аксесуари",
+    "parent_path": "ПНБ та Тепловізори",
+    "level": 2,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Аксесуари",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "ПНБ та Тепловізори/Оптичні приціли",
+    "name": "Оптичні приціли",
+    "path": "ПНБ та Тепловізори/Оптичні приціли",
+    "parent_path": "ПНБ та Тепловізори",
+    "level": 2,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Оптичні приціли",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "ПНБ та Тепловізори/Прилади нічного бачення",
+    "name": "Прилади нічного бачення",
+    "path": "ПНБ та Тепловізори/Прилади нічного бачення",
+    "parent_path": "ПНБ та Тепловізори",
+    "level": 2,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Прилади нічного бачення",
+    "level_3": null,
+    "children_paths": [
+      "ПНБ та Тепловізори/Прилади нічного бачення/Бінокуляр",
+      "ПНБ та Тепловізори/Прилади нічного бачення/Монокуляр"
+    ]
+  },
+  {
+    "id": "ПНБ та Тепловізори/Прилади нічного бачення/Бінокуляр",
+    "name": "Бінокуляр",
+    "path": "ПНБ та Тепловізори/Прилади нічного бачення/Бінокуляр",
+    "parent_path": "ПНБ та Тепловізори/Прилади нічного бачення",
+    "level": 3,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Прилади нічного бачення",
+    "level_3": "Бінокуляр",
+    "children_paths": []
+  },
+  {
+    "id": "ПНБ та Тепловізори/Прилади нічного бачення/Монокуляр",
+    "name": "Монокуляр",
+    "path": "ПНБ та Тепловізори/Прилади нічного бачення/Монокуляр",
+    "parent_path": "ПНБ та Тепловізори/Прилади нічного бачення",
+    "level": 3,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Прилади нічного бачення",
+    "level_3": "Монокуляр",
+    "children_paths": []
+  },
+  {
+    "id": "ПНБ та Тепловізори/Тепловізори",
+    "name": "Тепловізори",
+    "path": "ПНБ та Тепловізори/Тепловізори",
+    "parent_path": "ПНБ та Тепловізори",
+    "level": 2,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Тепловізори",
+    "level_3": null,
+    "children_paths": [
+      "ПНБ та Тепловізори/Тепловізори/Бінокуляр",
+      "ПНБ та Тепловізори/Тепловізори/Монокуляр",
+      "ПНБ та Тепловізори/Тепловізори/Приціл"
+    ]
+  },
+  {
+    "id": "ПНБ та Тепловізори/Тепловізори/Бінокуляр",
+    "name": "Бінокуляр",
+    "path": "ПНБ та Тепловізори/Тепловізори/Бінокуляр",
+    "parent_path": "ПНБ та Тепловізори/Тепловізори",
+    "level": 3,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Тепловізори",
+    "level_3": "Бінокуляр",
+    "children_paths": []
+  },
+  {
+    "id": "ПНБ та Тепловізори/Тепловізори/Монокуляр",
+    "name": "Монокуляр",
+    "path": "ПНБ та Тепловізори/Тепловізори/Монокуляр",
+    "parent_path": "ПНБ та Тепловізори/Тепловізори",
+    "level": 3,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Тепловізори",
+    "level_3": "Монокуляр",
+    "children_paths": []
+  },
+  {
+    "id": "ПНБ та Тепловізори/Тепловізори/Приціл",
+    "name": "Приціл",
+    "path": "ПНБ та Тепловізори/Тепловізори/Приціл",
+    "parent_path": "ПНБ та Тепловізори/Тепловізори",
+    "level": 3,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Тепловізори",
+    "level_3": "Приціл",
+    "children_paths": []
+  },
+  {
+    "id": "ПНБ та Тепловізори/Термограф",
+    "name": "Термограф",
+    "path": "ПНБ та Тепловізори/Термограф",
+    "parent_path": "ПНБ та Тепловізори",
+    "level": 2,
+    "level_1": "ПНБ та Тепловізори",
+    "level_2": "Термограф",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Повербанки <br> (Power Bank)",
+    "name": "Повербанки <br> (Power Bank)",
+    "path": "Повербанки <br> (Power Bank)",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Повербанки <br> (Power Bank)",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Повербанки <br> (Power Bank)/10000 mAh",
+      "Повербанки <br> (Power Bank)/16000 mAh",
+      "Повербанки <br> (Power Bank)/20000 mAh",
+      "Повербанки <br> (Power Bank)/30000 mAh",
+      "Повербанки <br> (Power Bank)/40000 mAh"
+    ]
+  },
+  {
+    "id": "Повербанки <br> (Power Bank)/10000 mAh",
+    "name": "10000 mAh",
+    "path": "Повербанки <br> (Power Bank)/10000 mAh",
+    "parent_path": "Повербанки <br> (Power Bank)",
+    "level": 2,
+    "level_1": "Повербанки <br> (Power Bank)",
+    "level_2": "10000 mAh",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Повербанки <br> (Power Bank)/16000 mAh",
+    "name": "16000 mAh",
+    "path": "Повербанки <br> (Power Bank)/16000 mAh",
+    "parent_path": "Повербанки <br> (Power Bank)",
+    "level": 2,
+    "level_1": "Повербанки <br> (Power Bank)",
+    "level_2": "16000 mAh",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Повербанки <br> (Power Bank)/20000 mAh",
+    "name": "20000 mAh",
+    "path": "Повербанки <br> (Power Bank)/20000 mAh",
+    "parent_path": "Повербанки <br> (Power Bank)",
+    "level": 2,
+    "level_1": "Повербанки <br> (Power Bank)",
+    "level_2": "20000 mAh",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Повербанки <br> (Power Bank)/30000 mAh",
+    "name": "30000 mAh",
+    "path": "Повербанки <br> (Power Bank)/30000 mAh",
+    "parent_path": "Повербанки <br> (Power Bank)",
+    "level": 2,
+    "level_1": "Повербанки <br> (Power Bank)",
+    "level_2": "30000 mAh",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Повербанки <br> (Power Bank)/40000 mAh",
+    "name": "40000 mAh",
+    "path": "Повербанки <br> (Power Bank)/40000 mAh",
+    "parent_path": "Повербанки <br> (Power Bank)",
+    "level": 2,
+    "level_1": "Повербанки <br> (Power Bank)",
+    "level_2": "40000 mAh",
+    "level_3": null,
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker",
+    "name": "Підводні дрони<br> Deep Trekker",
+    "path": "Підводні дрони<br> Deep Trekker",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+      "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони",
+      "Підводні дрони<br> Deep Trekker/Підводні камери"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler",
+    "name": "Аксесуари Utility Crawler",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler",
+    "parent_path": "Підводні дрони<br> Deep Trekker",
+    "level": 2,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари Utility Crawler",
+    "level_3": null,
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Інструменти",
+      "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Камери та освітлення",
+      "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Сервісні набори",
+      "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Ударостійкі кейси"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Інструменти",
+    "name": "Інструменти",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Інструменти",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари Utility Crawler",
+    "level_3": "Інструменти",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Камери та освітлення",
+    "name": "Камери та освітлення",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Камери та освітлення",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари Utility Crawler",
+    "level_3": "Камери та освітлення",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Сервісні набори",
+    "name": "Сервісні набори",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Сервісні набори",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари Utility Crawler",
+    "level_3": "Сервісні набори",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Ударостійкі кейси",
+    "name": "Ударостійкі кейси",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler/Ударостійкі кейси",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари Utility Crawler",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари Utility Crawler",
+    "level_3": "Ударостійкі кейси",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "name": "Аксесуари для підводних дронів",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "parent_path": "Підводні дрони<br> Deep Trekker",
+    "level": 2,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": null,
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Акумулятори",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Датчики",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Зонди та пробовідбірники",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Камери та освітлення",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Консоль",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Маніпулятори",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Підвищення продуктивності",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Сервісні набори",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Сонари та навігація",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Троси",
+      "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Ударостійкі кейси"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Акумулятори",
+    "name": "Акумулятори",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Акумулятори",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Акумулятори",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Датчики",
+    "name": "Датчики",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Датчики",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Датчики",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Зонди та пробовідбірники",
+    "name": "Зонди та пробовідбірники",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Зонди та пробовідбірники",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Зонди та пробовідбірники",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Камери та освітлення",
+    "name": "Камери та освітлення",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Камери та освітлення",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Камери та освітлення",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Консоль",
+    "name": "Консоль",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Консоль",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Консоль",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Маніпулятори",
+    "name": "Маніпулятори",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Маніпулятори",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Маніпулятори",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Підвищення продуктивності",
+    "name": "Підвищення продуктивності",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Підвищення продуктивності",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Підвищення продуктивності",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Сервісні набори",
+    "name": "Сервісні набори",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Сервісні набори",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Сервісні набори",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Сонари та навігація",
+    "name": "Сонари та навігація",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Сонари та навігація",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Сонари та навігація",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Троси",
+    "name": "Троси",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Троси",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Троси",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Ударостійкі кейси",
+    "name": "Ударостійкі кейси",
+    "path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів/Ударостійкі кейси",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Аксесуари для підводних дронів",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Аксесуари для підводних дронів",
+    "level_3": "Ударостійкі кейси",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування",
+    "name": "Дрони для технічного обслуговування",
+    "path": "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування",
+    "parent_path": "Підводні дрони<br> Deep Trekker",
+    "level": 2,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Дрони для технічного обслуговування",
+    "level_3": null,
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування/MAG",
+      "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування/VAC"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування/MAG",
+    "name": "MAG",
+    "path": "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування/MAG",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Дрони для технічного обслуговування",
+    "level_3": "MAG",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування/VAC",
+    "name": "VAC",
+    "path": "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування/VAC",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Дрони для технічного обслуговування",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Дрони для технічного обслуговування",
+    "level_3": "VAC",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони",
+    "name": "Підводні дрони",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони",
+    "parent_path": "Підводні дрони<br> Deep Trekker",
+    "level": 2,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": null,
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/DTG-3",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/DTG-3",
+    "name": "DTG-3",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/DTG-3",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "DTG-3",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon",
+    "name": "Photon",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Photon",
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/Base",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/Expert",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/SAR"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/Base",
+    "name": "Base",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/Base",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Photon",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/Expert",
+    "name": "Expert",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/Expert",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Photon",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/SAR",
+    "name": "SAR",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon/SAR",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Photon",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Photon",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot",
+    "name": "Pivot",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Pivot",
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Expert",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/NAV",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Recon",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/SAR",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Smart"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Expert",
+    "name": "Expert",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Expert",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Pivot",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/NAV",
+    "name": "NAV",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/NAV",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Pivot",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Recon",
+    "name": "Recon",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Recon",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Pivot",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/SAR",
+    "name": "SAR",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/SAR",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Pivot",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Smart",
+    "name": "Smart",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot/Smart",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Pivot",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Pivot",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution",
+    "name": "Revolution",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Revolution",
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution/Base",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution/NAV"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC",
+    "name": "Revolution-DC",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Revolution-DC",
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/Base",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/NAV",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/Recon",
+      "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/SAR"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/Base",
+    "name": "Base",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/Base",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Revolution-DC",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/NAV",
+    "name": "NAV",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/NAV",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Revolution-DC",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/Recon",
+    "name": "Recon",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/Recon",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Revolution-DC",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/SAR",
+    "name": "SAR",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC/SAR",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution-DC",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Revolution-DC",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution/Base",
+    "name": "Base",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution/Base",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Revolution",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution/NAV",
+    "name": "NAV",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution/NAV",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні дрони/Revolution",
+    "level": 4,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні дрони",
+    "level_3": "Revolution",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні камери",
+    "name": "Підводні камери",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні камери",
+    "parent_path": "Підводні дрони<br> Deep Trekker",
+    "level": 2,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні камери",
+    "level_3": null,
+    "children_paths": [
+      "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod IP Base System",
+      "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod PRO",
+      "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod Starter"
+    ]
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod IP Base System",
+    "name": "DTPod IP Base System",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod IP Base System",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні камери",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні камери",
+    "level_3": "DTPod IP Base System",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod PRO",
+    "name": "DTPod PRO",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod PRO",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні камери",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні камери",
+    "level_3": "DTPod PRO",
+    "children_paths": []
+  },
+  {
+    "id": "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod Starter",
+    "name": "DTPod Starter",
+    "path": "Підводні дрони<br> Deep Trekker/Підводні камери/DTPod Starter",
+    "parent_path": "Підводні дрони<br> Deep Trekker/Підводні камери",
+    "level": 3,
+    "level_1": "Підводні дрони<br> Deep Trekker",
+    "level_2": "Підводні камери",
+    "level_3": "DTPod Starter",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "name": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "parent_path": null,
+    "level": 1,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": null,
+    "level_3": null,
+    "children_paths": [
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ"
+    ]
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS",
+    "name": "AARTOS DDS",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level": 2,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": null,
+    "children_paths": [
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Камери",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радари",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення"
+    ]
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання",
+    "name": "Додаткове обладнання",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Додаткове обладнання",
+    "children_paths": [
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Гучномовці",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Компас",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Радіорелейна станція",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Супутникова антена"
+    ]
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Гучномовці",
+    "name": "Гучномовці",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Гучномовці",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання",
+    "level": 4,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Додаткове обладнання",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Компас",
+    "name": "Компас",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Компас",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання",
+    "level": 4,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Додаткове обладнання",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Радіорелейна станція",
+    "name": "Радіорелейна станція",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Радіорелейна станція",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання",
+    "level": 4,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Додаткове обладнання",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Супутникова антена",
+    "name": "Супутникова антена",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання/Супутникова антена",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Додаткове обладнання",
+    "level": 4,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Додаткове обладнання",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Камери",
+    "name": "Камери",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Камери",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Камери",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радари",
+    "name": "Радари",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радари",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Радари",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення",
+    "name": "Радіочастотне 3D виявлення",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Радіочастотне 3D виявлення",
+    "children_paths": [
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення/Вулична стійкова версія (outdoor)",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення/Стійкова версія (rack version)"
+    ]
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення/Вулична стійкова версія (outdoor)",
+    "name": "Вулична стійкова версія (outdoor)",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення/Вулична стійкова версія (outdoor)",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення",
+    "level": 4,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Радіочастотне 3D виявлення",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення/Стійкова версія (rack version)",
+    "name": "Стійкова версія (rack version)",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення/Стійкова версія (rack version)",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/AARTOS DDS/Радіочастотне 3D виявлення",
+    "level": 4,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "AARTOS DDS",
+    "level_3": "Радіочастотне 3D виявлення",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS",
+    "name": "Інтеграції <br>AARTOS DDS",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level": 2,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Інтеграції <br>AARTOS DDS",
+    "level_3": null,
+    "children_paths": [
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Вантажівка",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Командний центр",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Мікроавтобус",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Причепна щогла"
+    ]
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Вантажівка",
+    "name": "Вантажівка",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Вантажівка",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Інтеграції <br>AARTOS DDS",
+    "level_3": "Вантажівка",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Командний центр",
+    "name": "Командний центр",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Командний центр",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Інтеграції <br>AARTOS DDS",
+    "level_3": "Командний центр",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Мікроавтобус",
+    "name": "Мікроавтобус",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Мікроавтобус",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Інтеграції <br>AARTOS DDS",
+    "level_3": "Мікроавтобус",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Причепна щогла",
+    "name": "Причепна щогла",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS/Причепна щогла",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Інтеграції <br>AARTOS DDS",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Інтеграції <br>AARTOS DDS",
+    "level_3": "Причепна щогла",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення",
+    "name": "Системи виявлення",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level": 2,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи виявлення",
+    "level_3": null,
+    "children_paths": [
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X2",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X5",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X7",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X9"
+    ]
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X2",
+    "name": "AARTOS DDS X2",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X2",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи виявлення",
+    "level_3": "AARTOS DDS X2",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X5",
+    "name": "AARTOS DDS X5",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X5",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи виявлення",
+    "level_3": "AARTOS DDS X5",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X7",
+    "name": "AARTOS DDS X7",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X7",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи виявлення",
+    "level_3": "AARTOS DDS X7",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X9",
+    "name": "AARTOS DDS X9",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення/AARTOS DDS X9",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи виявлення",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи виявлення",
+    "level_3": "AARTOS DDS X9",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ",
+    "name": "Системи протидії AARTOS РЕБ",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level": 2,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи протидії AARTOS РЕБ",
+    "level_3": null,
+    "children_paths": [
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Автоматичний джамер",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Компактний джамер",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Програмований джамер",
+      "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Ручний джамер"
+    ]
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Автоматичний джамер",
+    "name": "Автоматичний джамер",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Автоматичний джамер",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи протидії AARTOS РЕБ",
+    "level_3": "Автоматичний джамер",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Компактний джамер",
+    "name": "Компактний джамер",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Компактний джамер",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи протидії AARTOS РЕБ",
+    "level_3": "Компактний джамер",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Програмований джамер",
+    "name": "Програмований джамер",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Програмований джамер",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи протидії AARTOS РЕБ",
+    "level_3": "Програмований джамер",
+    "children_paths": []
+  },
+  {
+    "id": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Ручний джамер",
+    "name": "Ручний джамер",
+    "path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ/Ручний джамер",
+    "parent_path": "Системи виявлення та протидії БПЛА AARTOS DDS/Системи протидії AARTOS РЕБ",
+    "level": 3,
+    "level_1": "Системи виявлення та протидії БПЛА AARTOS DDS",
+    "level_2": "Системи протидії AARTOS РЕБ",
+    "level_3": "Ручний джамер",
+    "children_paths": []
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-04-17T08:27:32.017446+00:00",
+  "source": "horoshop",
+  "version": "0.3",
+  "counts": {
+    "products": 1160,
+    "categories": 306,
+    "search_index": 1160
+  },
+  "files": {
+    "products": "products.json",
+    "categories": "categories.json",
+    "search_index": "search-index.json"
+  },
+  "api": {
+    "products_function": "catalog/export",
+    "categories_function": null
+  },
+  "build": {
+    "showcase_only": true,
+    "showcase_selection_mode": "legacy_expr_postfilter",
+    "fallback_to_all": false
+  }
+}
