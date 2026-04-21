@@ -3383,7 +3383,7 @@
     "name": "Командний Центр SPECTRAN V6 2000CA-6",
     "display_name": "Командний Центр SPECTRAN V6 2000CA-6",
     "short_description": null,
-    "price": 1804030.62,
+    "price": 0,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Командний Центр",
     "category": {
@@ -3415,7 +3415,7 @@
     "name": "Командний Центр SPECTRAN V6 4000CA-6",
     "display_name": "Командний Центр SPECTRAN V6 4000CA-6",
     "short_description": null,
-    "price": 2526220.62,
+    "price": 2888615.56,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Командний Центр",
     "category": {
@@ -3447,7 +3447,7 @@
     "name": "Командний Центр SPECTRAN V6 8000CA-6",
     "display_name": "Командний Центр SPECTRAN V6 8000CA-6",
     "short_description": null,
-    "price": 4331695.62,
+    "price": 4694090.56,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Командний Центр",
     "category": {
@@ -15097,8 +15097,8 @@
     "name": "Аналізатор спектру PLUS XPR 250XB-WR08",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR08",
     "short_description": null,
-    "price": 0,
-    "currency": null,
+    "price": 5777375.56,
+    "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
       "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
@@ -15125,8 +15125,8 @@
     "name": "Аналізатор спектру PLUS XPR 250XB-WR10",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR10",
     "short_description": null,
-    "price": 0,
-    "currency": null,
+    "price": 4332995.56,
+    "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
       "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
@@ -15153,8 +15153,8 @@
     "name": "Аналізатор спектру PLUS XPR 250XB-WR12",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR12",
     "short_description": null,
-    "price": 0,
-    "currency": null,
+    "price": 3610805.56,
+    "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
       "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
@@ -15181,8 +15181,8 @@
     "name": "Аналізатор спектру PLUS XPR 250XB-WR15",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR15",
     "short_description": null,
-    "price": 0,
-    "currency": null,
+    "price": 2888615.56,
+    "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
       "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
@@ -15605,8 +15605,8 @@
     "name": "Конвертор РЧ через оптоволокно 1060",
     "display_name": "Конвертор РЧ через оптоволокно 1060",
     "short_description": null,
-    "price": 0,
-    "currency": null,
+    "price": 722045.56,
+    "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
     "category": {
       "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
@@ -15636,8 +15636,8 @@
     "name": "Конвертор РЧ через оптоволокно 1040",
     "display_name": "Конвертор РЧ через оптоволокно 1040",
     "short_description": null,
-    "price": 0,
-    "currency": null,
+    "price": 649826.56,
+    "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
     "category": {
       "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
