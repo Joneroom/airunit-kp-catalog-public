@@ -14344,7 +14344,7 @@
     "name": "Антена HyperLOG 4040X",
     "display_name": "Антена HyperLOG 4040X",
     "short_description": null,
-    "price": 13649.39,
+    "price": 72074.56,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -23278,6 +23278,123 @@
     "primary_image": "https://airunit.com.ua/content/images/17/v6-workbench-test-55576480362965_+f18c548730.png",
     "has_images": true,
     "link": "https://airunit.com.ua/v6-workbench-test/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "104/015",
+    "article": "104/015",
+    "parent_article": "104/015",
+    "name": "Комплект для випробувань на EMC в реальному часі (ближнє поле)",
+    "display_name": "Комплект для випробувань на EMC в реальному часі (ближнє поле)",
+    "short_description": null,
+    "price": 0,
+    "currency": null,
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Комплекти"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/27/echtzeit-emv-paket-1-48688560556230_+0a5dbfddf9.png",
+      "https://airunit.com.ua/content/images/27/echtzeit-emv-paket-1-67848830268984_+c69088ea91.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/27/echtzeit-emv-paket-1-48688560556230_+0a5dbfddf9.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/echtzeit-emv-paket-1/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "104/016-1",
+    "article": "104/016-1",
+    "parent_article": "104/016-1",
+    "name": "Комплект для випробувань на EMC в реальному часі (дальнє поле)",
+    "display_name": "Комплект для випробувань на EMC в реальному часі (дальнє поле)",
+    "short_description": null,
+    "price": 0,
+    "currency": null,
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Комплекти"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/28/echtzeit-emv-paket-2-27408173230882_+9ca9946040.png",
+      "https://airunit.com.ua/content/images/28/echtzeit-emv-paket-2-73443633659022_+3493e9f2e2.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/28/echtzeit-emv-paket-2-27408173230882_+9ca9946040.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/echtzeit-emv-paket-2/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "104/017",
+    "article": "104/017",
+    "parent_article": "104/017",
+    "name": "Комплект для випробувань на EMC в реальному часі (ближнє та дальнє поле)",
+    "display_name": "Комплект для випробувань на EMC в реальному часі (ближнє та дальнє поле)",
+    "short_description": null,
+    "price": 0,
+    "currency": null,
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Комплекти"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/29/echtzeit-emv-paket-3-76550648459337_+5aae0e768c.png",
+      "https://airunit.com.ua/content/images/29/echtzeit-emv-paket-3-16066032311653_+6efaa1dff6.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/29/echtzeit-emv-paket-3-76550648459337_+5aae0e768c.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/echtzeit-emv-paket-3/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "104/013",
+    "article": "104/013",
+    "parent_article": "104/013",
+    "name": "Spectran V4 DF Handheld",
+    "display_name": "Spectran V4 DF Handheld",
+    "short_description": null,
+    "price": 0,
+    "currency": null,
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Комплекти"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-70556947694642_+c470e733c2.png",
+      "https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-81507897196620_+1be8a2f2c3.png",
+      "https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-77454527572300_+5afc8ceaba.png",
+      "https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-78175407182636_+06a6e5f39d.png",
+      "https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-11662989277065_+77da141c11.png",
+      "https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-19029693445059_+cd7cecea6c.png",
+      "https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-17343196191187_+6878b3b0e3.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/30/spectran-v4-df-handheld-70556947694642_+c470e733c2.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/spectran-v4-df-handheld/",
     "is_modification": false,
     "active": null,
     "source": "horoshop",
