@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T05:16:44.296144+00:00",
+  "generated_at": "2026-04-23T05:22:06.276539+00:00",
   "source": "horoshop",
   "version": "0.3",
   "counts": {
-    "products": 1164,
+    "products": 1166,
     "categories": 306,
-    "search_index": 1164
+    "search_index": 1166
   },
   "files": {
     "products": "products.json",

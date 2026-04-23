@@ -4344,10 +4344,10 @@
     "search_text": "c1-b-10k антенний кабель 4hawks rp-sma, 10м антенний кабель 4hawks rp-sma, 10м"
   },
   {
-    "article": "102/009",
+    "article": "102/0090-old",
     "name": "Аналізатор спектру RODB 500RA-6",
     "display_name": "Аналізатор спектру RODB 500RA-6",
-    "search_text": "102/009 аналізатор спектру rodb 500ra-6 аналізатор спектру rodb 500ra-6"
+    "search_text": "102/0090-old аналізатор спектру rodb 500ra-6 аналізатор спектру rodb 500ra-6"
   },
   {
     "article": "102/008",
@@ -4710,10 +4710,10 @@
     "search_text": "901/002 материнська плата aaronia pc mainboard a1 материнська плата aaronia pc mainboard a1"
   },
   {
-    "article": "SPECTRAN V4-C Handheld",
+    "article": "104/012",
     "name": "Портативний аналізатор спектра SPECTRAN V4-C Handheld",
     "display_name": "Портативний аналізатор спектра SPECTRAN V4-C Handheld",
-    "search_text": "spectran v4-c handheld портативний аналізатор спектра spectran v4-c handheld портативний аналізатор спектра spectran v4-c handheld"
+    "search_text": "104/012 портативний аналізатор спектра spectran v4-c handheld портативний аналізатор спектра spectran v4-c handheld"
   },
   {
     "article": "A150X",
@@ -4756,6 +4756,18 @@
     "name": "Spectran V4 DF Handheld",
     "display_name": "Spectran V4 DF Handheld",
     "search_text": "104/013 spectran v4 df handheld spectran v4 df handheld"
+  },
+  {
+    "article": "102/074",
+    "name": "Планшет SPECTRAN® V6 TABLET 2000TA-6",
+    "display_name": "Планшет SPECTRAN® V6 TABLET 2000TA-6",
+    "search_text": "102/074 планшет spectran® v6 tablet 2000ta-6 планшет spectran® v6 tablet 2000ta-6"
+  },
+  {
+    "article": "102/009",
+    "name": "Аналізатор спектру RODB 250RA-6",
+    "display_name": "Аналізатор спектру RODB 250RA-6",
+    "search_text": "102/009 аналізатор спектру rodb 250ra-6 аналізатор спектру rodb 250ra-6"
   },
   {
     "article": "EF-RG-SOLAR-100",
