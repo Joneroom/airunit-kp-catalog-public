@@ -6994,5 +6994,11 @@
     "name": "245 MHz Tx Expansion",
     "display_name": "245 MHz Tx Expansion",
     "search_text": "112-009 245 mhz tx expansion 245 mhz tx expansion"
+  },
+  {
+    "article": "112-007",
+    "name": "Internes GPS",
+    "display_name": "Internes GPS",
+    "search_text": "112-007 internes gps internes gps"
   }
 ]
