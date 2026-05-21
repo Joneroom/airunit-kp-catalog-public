@@ -4770,6 +4770,18 @@
     "search_text": "102/009 аналізатор спектру rodb 250ra-6 аналізатор спектру rodb 250ra-6"
   },
   {
+    "article": "401/01",
+    "name": "SPARK",
+    "display_name": "SPARK",
+    "search_text": "401/01 spark spark"
+  },
+  {
+    "article": "vsg-50a-18",
+    "name": "copy_SPARK",
+    "display_name": "copy_SPARK",
+    "search_text": "vsg-50a-18 copy_spark copy_spark"
+  },
+  {
     "article": "EF-RG-SOLAR-100",
     "name": "Стаціонарна сонячна панель EcoFlow 100W Rigid Solar Panel",
     "display_name": "Стаціонарна сонячна панель EcoFlow 100W Rigid Solar Panel",
