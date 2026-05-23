@@ -3048,10 +3048,10 @@
     "search_text": "102/078 аналізатор спектру plus xpr 250xb-wr12 аналізатор спектру plus xpr 250xb-wr12"
   },
   {
-    "article": "102/077",
+    "article": "102/xxx",
     "name": "Аналізатор спектру PLUS XPR 250XB-WR15",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR15",
-    "search_text": "102/077 аналізатор спектру plus xpr 250xb-wr15 аналізатор спектру plus xpr 250xb-wr15"
+    "search_text": "102/xxx аналізатор спектру plus xpr 250xb-wr15 аналізатор спектру plus xpr 250xb-wr15"
   },
   {
     "article": "102/063-eco-xpr-100xa-wr08",
@@ -4777,9 +4777,15 @@
   },
   {
     "article": "vsg-50a-18",
-    "name": "copy_SPARK",
-    "display_name": "copy_SPARK",
-    "search_text": "vsg-50a-18 copy_spark copy_spark"
+    "name": "Генератор сигналів V6 ECO VSG-50A-18",
+    "display_name": "Генератор сигналів V6 ECO VSG-50A-18",
+    "search_text": "vsg-50a-18 генератор сигналів v6 eco vsg-50a-18 генератор сигналів v6 eco vsg-50a-18"
+  },
+  {
+    "article": "503/072",
+    "name": "Octoplexer",
+    "display_name": "Octoplexer",
+    "search_text": "503/072 octoplexer octoplexer"
   },
   {
     "article": "EF-RG-SOLAR-100",
@@ -7012,5 +7018,35 @@
     "name": "Internes GPS",
     "display_name": "Internes GPS",
     "search_text": "112-007 internes gps internes gps"
+  },
+  {
+    "article": "112-008",
+    "name": "120 MHz Vector Signal Generator TX",
+    "display_name": "120 MHz Vector Signal Generator TX",
+    "search_text": "112-008 120 mhz vector signal generator tx 120 mhz vector signal generator tx"
+  },
+  {
+    "article": "112-004",
+    "name": "Extended Temperatur Range",
+    "display_name": "Extended Temperatur Range",
+    "search_text": "112-004 extended temperatur range extended temperatur range"
+  },
+  {
+    "article": "112-011",
+    "name": "Peak Detektor",
+    "display_name": "Peak Detektor",
+    "search_text": "112-011 peak detektor peak detektor"
+  },
+  {
+    "article": "112-022",
+    "name": "Розширення WiFi 6E",
+    "display_name": "Розширення WiFi 6E",
+    "search_text": "112-022 розширення wifi 6e розширення wifi 6e"
+  },
+  {
+    "article": "112-025",
+    "name": "3 THz/s Sweep",
+    "display_name": "3 THz/s Sweep",
+    "search_text": "112-025 3 thz/s sweep 3 thz/s sweep"
   }
 ]

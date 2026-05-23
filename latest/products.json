@@ -15175,9 +15175,9 @@
     "specifications": []
   },
   {
-    "id": "102/077",
-    "article": "102/077",
-    "parent_article": "102/077",
+    "id": "102/xxx",
+    "article": "102/xxx",
+    "parent_article": "102/xxx",
     "name": "Аналізатор спектру PLUS XPR 250XB-WR15",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR15",
     "short_description": null,
@@ -23496,8 +23496,8 @@
     "id": "vsg-50a-18",
     "article": "vsg-50a-18",
     "parent_article": "vsg-50a-18",
-    "name": "copy_SPARK",
-    "display_name": "copy_SPARK",
+    "name": "Генератор сигналів V6 ECO VSG-50A-18",
+    "display_name": "Генератор сигналів V6 ECO VSG-50A-18",
     "short_description": null,
     "price": 0,
     "currency": "UAH",
@@ -23508,10 +23508,50 @@
       "level_2": "Контрольно-вимірювальні прилади",
       "level_3": "Генератори сигналів"
     },
-    "images": [],
-    "primary_image": null,
-    "has_images": false,
-    "link": null,
+    "images": [
+      "https://airunit.com.ua/content/images/35/henerator-syhnaliv-v6-eco-vsg-50a-18-48983390095943_+24fc46e361.png",
+      "https://airunit.com.ua/content/images/35/henerator-syhnaliv-v6-eco-vsg-50a-18-39502441100110_+69a8a58db8.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/35/henerator-syhnaliv-v6-eco-vsg-50a-18-48983390095943_+24fc46e361.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/henerator-syhnaliv-v6-eco-vsg-50a-18/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "503/072",
+    "article": "503/072",
+    "parent_article": "503/072",
+    "name": "Octoplexer",
+    "display_name": "Octoplexer",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Додаткові компоненти"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/39/octoplexer-87749132407722_+409f8d4ac7.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-56854033591737_+abbfb82da6.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-75238777552832_+0caf10fa63.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-20421591988977_+f3ae321ee3.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-42494309426141_+24b3ea2dbb.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-84500254563563_+cb17098077.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-20452435805688_+57adb85689.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-79838098647757_+2f1b834547.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-79202694635193_+973ce9ec20.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-58701953589311_+09c383841d.png",
+      "https://airunit.com.ua/content/images/39/octoplexer-41335364896060_+44c5127f93.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/39/octoplexer-87749132407722_+409f8d4ac7.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/octoplexer/",
     "is_modification": false,
     "active": null,
     "source": "horoshop",
@@ -34316,6 +34356,141 @@
     "primary_image": "https://airunit.com.ua/content/images/33/98402928440099_+20322d9ef5.png",
     "has_images": true,
     "link": null,
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "112-008",
+    "article": "112-008",
+    "parent_article": "112-008",
+    "name": "120 MHz Vector Signal Generator TX",
+    "display_name": "120 MHz Vector Signal Generator TX",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/36/120-mhz-vector-signal-generator-tx-51269604190029_+c529fe9507.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/36/120-mhz-vector-signal-generator-tx-51269604190029_+c529fe9507.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/120-mhz-vector-signal-generator-tx/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "112-004",
+    "article": "112-004",
+    "parent_article": "112-004",
+    "name": "Extended Temperatur Range",
+    "display_name": "Extended Temperatur Range",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/37/extended-temperatur-range-15882290582720_+03b513fc64.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/37/extended-temperatur-range-15882290582720_+03b513fc64.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/extended-temperatur-range/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "112-011",
+    "article": "112-011",
+    "parent_article": "112-011",
+    "name": "Peak Detektor",
+    "display_name": "Peak Detektor",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/38/peak-detektor-83300013491677_+504b81cb76.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/38/peak-detektor-83300013491677_+504b81cb76.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/peak-detektor/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "112-022",
+    "article": "112-022",
+    "parent_article": "112-022",
+    "name": "Розширення WiFi 6E",
+    "display_name": "Розширення WiFi 6E",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/40/rozshyrennia-wifi-6e-94253758715472_+8cf9346fb5.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/40/rozshyrennia-wifi-6e-94253758715472_+8cf9346fb5.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/rozshyrennia-wifi-6e/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "112-025",
+    "article": "112-025",
+    "parent_article": "112-025",
+    "name": "3 THz/s Sweep",
+    "display_name": "3 THz/s Sweep",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/41/3-thz-s-sweep-52325666505120_+f022ad0134.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/41/3-thz-s-sweep-52325666505120_+f022ad0134.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/3-thz-s-sweep/",
     "is_modification": false,
     "active": null,
     "source": "horoshop",
