@@ -7048,5 +7048,11 @@
     "name": "3 THz/s Sweep",
     "display_name": "3 THz/s Sweep",
     "search_text": "112-025 3 thz/s sweep 3 thz/s sweep"
+  },
+  {
+    "article": "copy_112-025",
+    "name": "copy_3 THz/s Sweep",
+    "display_name": "copy_3 THz/s Sweep",
+    "search_text": "copy_112-025 copy_3 thz/s sweep copy_3 thz/s sweep"
   }
 ]

@@ -34495,5 +34495,30 @@
     "active": null,
     "source": "horoshop",
     "specifications": []
+  },
+  {
+    "id": "copy_112-025",
+    "article": "copy_112-025",
+    "parent_article": "copy_112-025",
+    "name": "copy_3 THz/s Sweep",
+    "display_name": "copy_3 THz/s Sweep",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [],
+    "primary_image": null,
+    "has_images": false,
+    "link": null,
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
   }
 ]
