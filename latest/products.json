@@ -2050,7 +2050,7 @@
     "name": "Аналізатор спектру PLUS 250XA-6",
     "display_name": "Аналізатор спектру PLUS 250XA-6",
     "short_description": null,
-    "price": 248667.57,
+    "price": 248993.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 PLUS",
     "category": {
@@ -2330,7 +2330,7 @@
     "name": "Аналізатор спектру PLUS 500XA-6",
     "display_name": "Аналізатор спектру PLUS 500XA-6",
     "short_description": null,
-    "price": 426388.82,
+    "price": 426947.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 PLUS",
     "category": {
@@ -2628,7 +2628,7 @@
     "name": "Аналізатор спектру PLUS 2000XA-6",
     "display_name": "Аналізатор спектру PLUS 2000XA-6",
     "short_description": null,
-    "price": 710742.82,
+    "price": 711673.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 PLUS",
     "category": {
@@ -3415,7 +3415,7 @@
     "name": "Командний Центр SPECTRAN V6 4000CA-6",
     "display_name": "Командний Центр SPECTRAN V6 4000CA-6",
     "short_description": null,
-    "price": 2843397.82,
+    "price": 2847121.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Командний Центр",
     "category": {
@@ -3447,7 +3447,7 @@
     "name": "Командний Центр SPECTRAN V6 8000CA-6",
     "display_name": "Командний Центр SPECTRAN V6 8000CA-6",
     "short_description": null,
-    "price": 4620610.32,
+    "price": 4626661.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Командний Центр",
     "category": {
@@ -3479,7 +3479,7 @@
     "name": "Ноутбук SPECTRAN® V6 MIL 250MA-6",
     "display_name": "Ноутбук SPECTRAN® V6 MIL 250MA-6",
     "short_description": null,
-    "price": 1775790.73,
+    "price": 1778116.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Ноутбук",
     "category": {
@@ -3512,7 +3512,7 @@
     "name": "Ноутбук SPECTRAN® V6 MIL 500MA-6",
     "display_name": "Ноутбук SPECTRAN® V6 MIL 500MA-6",
     "short_description": null,
-    "price": 2131233.23,
+    "price": 2134024.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Ноутбук",
     "category": {
@@ -3544,7 +3544,7 @@
     "name": "Ноутбук SPECTRAN® V6 MIL 2000MA-6",
     "display_name": "Ноутбук SPECTRAN® V6 MIL 2000MA-6",
     "short_description": null,
-    "price": 2842118.23,
+    "price": 2845840.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Ноутбук",
     "category": {
@@ -3802,7 +3802,7 @@
     "name": "Антена HyperLOG 7040",
     "display_name": "Антена HyperLOG 7040",
     "short_description": null,
-    "price": 21184.37,
+    "price": 21212.12,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -3834,7 +3834,7 @@
     "name": "Антена HyperLOG 7060",
     "display_name": "Антена HyperLOG 7060",
     "short_description": null,
-    "price": 31847.65,
+    "price": 31889.36,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -3866,7 +3866,7 @@
     "name": "Антена HyperLOG 6080",
     "display_name": "Антена HyperLOG 6080",
     "short_description": null,
-    "price": 46065.35,
+    "price": 46125.68,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -3898,7 +3898,7 @@
     "name": "Антена HyperLOG 60100",
     "display_name": "Антена HyperLOG 60100",
     "short_description": null,
-    "price": 60283.05,
+    "price": 60362,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -3930,7 +3930,7 @@
     "name": "Антена HyperLOG 60180",
     "display_name": "Антена HyperLOG 60180",
     "short_description": null,
-    "price": 110045,
+    "price": 110189.12,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -3994,7 +3994,7 @@
     "name": "Антена HyperLOG 4040",
     "display_name": "Антена HyperLOG 4040",
     "short_description": null,
-    "price": 28293.22,
+    "price": 28330.28,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -4026,7 +4026,7 @@
     "name": "Антена HyperLOG 4060",
     "display_name": "Антена HyperLOG 4060",
     "short_description": null,
-    "price": 38956.5,
+    "price": 39007.52,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -4058,7 +4058,7 @@
     "name": "Антена HyperLOG 3080",
     "display_name": "Антена HyperLOG 3080",
     "short_description": null,
-    "price": 60283.05,
+    "price": 60362,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -4126,7 +4126,7 @@
     "name": "Антена HyperLOG 7040X",
     "display_name": "Антена HyperLOG 7040X",
     "short_description": null,
-    "price": 60283.05,
+    "price": 60362,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -4158,7 +4158,7 @@
     "name": "Антена HyperLOG 7060X",
     "display_name": "Антена HyperLOG 7060X",
     "short_description": null,
-    "price": 67391.9,
+    "price": 67480.16,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -4190,7 +4190,7 @@
     "name": "Антена HyperLOG 6080X",
     "display_name": "Антена HyperLOG 6080X",
     "short_description": null,
-    "price": 88718.45,
+    "price": 88834.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -4222,7 +4222,7 @@
     "name": "Антена HyperLOG 60100X",
     "display_name": "Антена HyperLOG 60100X",
     "short_description": null,
-    "price": 102936.15,
+    "price": 103070.96,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -4286,7 +4286,7 @@
     "name": "Антена HyperLOG 4040X BPA",
     "display_name": "Антена HyperLOG 4040X BPA",
     "short_description": null,
-    "price": 70946.32,
+    "price": 71039.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X BPA (активні + bypass)",
     "category": {
@@ -4318,7 +4318,7 @@
     "name": "Антена HyperLOG 4060X BPA",
     "display_name": "Антена HyperLOG 4060X BPA",
     "short_description": null,
-    "price": 81609.6,
+    "price": 81716.48,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X BPA (активні + bypass)",
     "category": {
@@ -4414,7 +4414,7 @@
     "name": "Антена HyperLOG PRO 18200",
     "display_name": "Антена HyperLOG PRO 18200",
     "short_description": null,
-    "price": 142034.82,
+    "price": 142220.84,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -4446,7 +4446,7 @@
     "name": "Антена HyperLOG PRO 18250",
     "display_name": "Антена HyperLOG PRO 18250",
     "short_description": null,
-    "price": 163361.37,
+    "price": 163575.32,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -4478,7 +4478,7 @@
     "name": "Антена HyperLOG PRO 18300",
     "display_name": "Антена HyperLOG PRO 18300",
     "short_description": null,
-    "price": 191796.77,
+    "price": 192047.96,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -4510,7 +4510,7 @@
     "name": "Антена HyperLOG PRO 18350",
     "display_name": "Антена HyperLOG PRO 18350",
     "short_description": null,
-    "price": 227341.02,
+    "price": 227638.76,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -4542,7 +4542,7 @@
     "name": "Антена HyperLOG PRO 18400",
     "display_name": "Антена HyperLOG PRO 18400",
     "short_description": null,
-    "price": 269994.12,
+    "price": 270347.72,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -4695,7 +4695,7 @@
     "name": "BicoLOG 30100",
     "display_name": "BicoLOG 30100",
     "short_description": null,
-    "price": 53174.2,
+    "price": 53243.84,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Біконічні пасивні",
     "category": {
@@ -4757,7 +4757,7 @@
     "name": "BicoLOG 20300",
     "display_name": "BicoLOG 20300",
     "short_description": null,
-    "price": 145589.25,
+    "price": 145779.92,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Біконічні пасивні",
     "category": {
@@ -5044,7 +5044,7 @@
     "name": "Всенаправлена антена OmniLOG 90200",
     "display_name": "Всенаправлена антена OmniLOG 90200",
     "short_description": null,
-    "price": 7105.3,
+    "price": 7114.6,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені",
     "category": {
@@ -5104,7 +5104,7 @@
     "name": "Всеспрямована антена OmniLOG 70600",
     "display_name": "Всеспрямована антена OmniLOG 70600",
     "short_description": null,
-    "price": 17768.57,
+    "price": 17791.84,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені",
     "category": {
@@ -5140,7 +5140,7 @@
     "name": "Всеспрямована антена OmniLOG 30800",
     "display_name": "Всеспрямована антена OmniLOG 30800",
     "short_description": null,
-    "price": 42649.55,
+    "price": 42705.4,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені",
     "category": {
@@ -5171,7 +5171,7 @@
     "name": "Всеспрямована антена OmniLOG PRO 1030",
     "display_name": "Всеспрямована антена OmniLOG PRO 1030",
     "short_description": null,
-    "price": 17629.95,
+    "price": 17653.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5200,7 +5200,7 @@
     "name": "Всеспрямована антена OmniLOG PRO N 1030",
     "display_name": "Всеспрямована антена OmniLOG PRO N 1030",
     "short_description": null,
-    "price": 17629.95,
+    "price": 17653.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5230,7 +5230,7 @@
     "name": "Всеспрямована антена OmniLOG PRO 1060",
     "display_name": "Всеспрямована антена OmniLOG PRO 1060",
     "short_description": null,
-    "price": 28293.22,
+    "price": 28330.28,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5259,7 +5259,7 @@
     "name": "Всеспрямована антена OmniLOG PRO N 1060",
     "display_name": "Всеспрямована антена OmniLOG PRO N 1060",
     "short_description": null,
-    "price": 28293.22,
+    "price": 28330.28,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5289,7 +5289,7 @@
     "name": "Всеспрямована антена OmniLOG PRO 10100",
     "display_name": "Всеспрямована антена OmniLOG PRO 10100",
     "short_description": null,
-    "price": 49619.77,
+    "price": 49684.76,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5318,7 +5318,7 @@
     "name": "Всеспрямована антена OmniLOG PRO N 10100",
     "display_name": "Всеспрямована антена OmniLOG PRO N 10100",
     "short_description": null,
-    "price": 49619.77,
+    "price": 49684.76,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5348,7 +5348,7 @@
     "name": "Всеспрямована антена OmniLOG PRO 10200",
     "display_name": "Всеспрямована антена OmniLOG PRO 10200",
     "short_description": null,
-    "price": 106490.57,
+    "price": 106630.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5377,7 +5377,7 @@
     "name": "Всеспрямована антена OmniLOG PRO N 10200",
     "display_name": "Всеспрямована антена OmniLOG PRO N 10200",
     "short_description": null,
-    "price": 106490.57,
+    "price": 106630.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5407,7 +5407,7 @@
     "name": "Всеспрямована антена OmniLOG PRO 7030H",
     "display_name": "Всеспрямована антена OmniLOG PRO 7030H",
     "short_description": null,
-    "price": 28293.22,
+    "price": 28330.28,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5436,7 +5436,7 @@
     "name": "Всеспрямована антена OmniLOG PRO N 7030H",
     "display_name": "Всеспрямована антена OmniLOG PRO N 7030H",
     "short_description": null,
-    "price": 28293.22,
+    "price": 28330.28,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5466,7 +5466,7 @@
     "name": "Всеспрямована антена OmniLOG PRO 7060H",
     "display_name": "Всеспрямована антена OmniLOG PRO 7060H",
     "short_description": null,
-    "price": 56728.62,
+    "price": 56802.92,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5495,7 +5495,7 @@
     "name": "Всеспрямована антена OmniLOG PRO N 7060H",
     "display_name": "Всеспрямована антена OmniLOG PRO N 7060H",
     "short_description": null,
-    "price": 56728.62,
+    "price": 56802.92,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5525,7 +5525,7 @@
     "name": "Всеспрямована антена OmniLOG PRO 70100H",
     "display_name": "Всеспрямована антена OmniLOG PRO 70100H",
     "short_description": null,
-    "price": 88718.45,
+    "price": 88834.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5554,7 +5554,7 @@
     "name": "Всеспрямована антена OmniLOG PRO N 70100H",
     "display_name": "Всеспрямована антена OmniLOG PRO N 70100H",
     "short_description": null,
-    "price": 88718.45,
+    "price": 88834.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5584,7 +5584,7 @@
     "name": "Всеспрямована антена OmniLOG PRO 70180H",
     "display_name": "Всеспрямована антена OmniLOG PRO 70180H",
     "short_description": null,
-    "price": 142034.82,
+    "price": 142220.84,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5613,7 +5613,7 @@
     "name": "Всеспрямована антена OmniLOG PRO N 70180H",
     "display_name": "Всеспрямована антена OmniLOG PRO N 70180H",
     "short_description": null,
-    "price": 142034.82,
+    "price": 142220.84,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Всенаправлені та біконічні антени/Всенаправлені PRO",
     "category": {
@@ -5701,7 +5701,7 @@
     "name": "Антена PowerLOG PRO 30300 EMI",
     "display_name": "Антена PowerLOG PRO 30300 EMI",
     "short_description": null,
-    "price": 284211.82,
+    "price": 284584.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Рупорні антени",
     "category": {
@@ -5829,7 +5829,7 @@
     "name": "Магнітна антена MDF 560",
     "display_name": "Магнітна антена MDF 560",
     "short_description": null,
-    "price": 28293.22,
+    "price": 28330.28,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Магнітні антени/MDF Пасивні",
     "category": {
@@ -5860,7 +5860,7 @@
     "name": "Магнітна антена MDF 9400",
     "display_name": "Магнітна антена MDF 9400",
     "short_description": null,
-    "price": 46065.35,
+    "price": 46125.68,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Магнітні антени/MDF Пасивні",
     "category": {
@@ -9829,7 +9829,7 @@
     "name": "Аналізатор спектру ECO 100XA-6",
     "display_name": "Аналізатор спектру ECO 100XA-6",
     "short_description": null,
-    "price": 177579.07,
+    "price": 177811.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 ECO",
     "category": {
@@ -9859,7 +9859,7 @@
     "name": "Аналізатор спектру ECO 150XA-6",
     "display_name": "Аналізатор спектру ECO 150XA-6",
     "short_description": null,
-    "price": 248667.57,
+    "price": 248993.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 ECO",
     "category": {
@@ -9889,7 +9889,7 @@
     "name": "Аналізатор спектру ECO 200XA-6",
     "display_name": "Аналізатор спектру ECO 200XA-6",
     "short_description": null,
-    "price": 248667.57,
+    "price": 248993.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 ECO",
     "category": {
@@ -10161,7 +10161,7 @@
     "name": "Аналізатор спектру RODB 2000RA-6",
     "display_name": "Аналізатор спектру RODB 2000RA-6",
     "short_description": null,
-    "price": 1421627.82,
+    "price": 1423489.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 RODB",
     "category": {
@@ -11080,7 +11080,7 @@
     "name": "Аналізатор спектру XPLORER 150XA-110",
     "display_name": "Аналізатор спектру XPLORER 150XA-110",
     "short_description": null,
-    "price": 5685658.23,
+    "price": 5693104.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -11109,7 +11109,7 @@
     "name": "Аналізатор спектру XPLORER 150XA-90",
     "display_name": "Аналізатор спектру XPLORER 150XA-90",
     "short_description": null,
-    "price": 4263888.23,
+    "price": 4269472.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -11138,7 +11138,7 @@
     "name": "Аналізатор спектру XPLORER 150XA-70",
     "display_name": "Аналізатор спектру XPLORER 150XA-70",
     "short_description": null,
-    "price": 2842118.23,
+    "price": 2845840.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -11248,7 +11248,7 @@
     "name": "Аналізатор спектру 5G 200XA-50",
     "display_name": "Аналізатор спектру 5G 200XA-50",
     "short_description": null,
-    "price": 1421627.82,
+    "price": 1423489.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 5G",
     "category": {
@@ -11277,7 +11277,7 @@
     "name": "Аналізатор спектру 5G 100XA-30",
     "display_name": "Аналізатор спектру 5G 100XA-30",
     "short_description": null,
-    "price": 710742.82,
+    "price": 711673.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 5G",
     "category": {
@@ -11306,7 +11306,7 @@
     "name": "Аналізатор спектру ECO 100XA-18",
     "display_name": "Аналізатор спектру ECO 100XA-18",
     "short_description": null,
-    "price": 497477.32,
+    "price": 498128.84,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 ECO",
     "category": {
@@ -11334,7 +11334,7 @@
     "name": "Аналізатор спектру ECO 150XA-18",
     "display_name": "Аналізатор спектру ECO 150XA-18",
     "short_description": null,
-    "price": 781831.32,
+    "price": 782855.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 ECO",
     "category": {
@@ -11665,7 +11665,7 @@
     "name": "Сплітер SP4-DC80X Splitter",
     "display_name": "Сплітер SP4-DC80X Splitter",
     "short_description": null,
-    "price": 106490.57,
+    "price": 106630.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP4",
     "category": {
@@ -11695,7 +11695,7 @@
     "name": "Антена HyperLOG PRO 7080X",
     "display_name": "Антена HyperLOG PRO 7080X",
     "short_description": null,
-    "price": 177579.07,
+    "price": 177811.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -11722,7 +11722,7 @@
     "name": "SMA Limiter",
     "display_name": "SMA Limiter",
     "short_description": null,
-    "price": 10659.72,
+    "price": 10673.68,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Обмежувачі",
     "category": {
@@ -12202,7 +12202,7 @@
     "name": "Ударостійкий кейс для SPECTRAN V6",
     "display_name": "Ударостійкий кейс для SPECTRAN V6",
     "short_description": null,
-    "price": 7105.3,
+    "price": 7114.6,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Ударостійкі кейси",
     "category": {
@@ -12230,7 +12230,7 @@
     "name": "Антена HyperLOG 3080X",
     "display_name": "Антена HyperLOG 3080X",
     "short_description": null,
-    "price": 102936.15,
+    "price": 103070.96,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -14314,7 +14314,7 @@
     "name": "Антена HyperLOG 60200X",
     "display_name": "Антена HyperLOG 60200X",
     "short_description": null,
-    "price": 149143.67,
+    "price": 149339,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -14344,7 +14344,7 @@
     "name": "Антена HyperLOG 4040X",
     "display_name": "Антена HyperLOG 4040X",
     "short_description": null,
-    "price": 70946.32,
+    "price": 71039.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -14374,7 +14374,7 @@
     "name": "Антена HyperLOG 4060X",
     "display_name": "Антена HyperLOG 4060X",
     "short_description": null,
-    "price": 81609.6,
+    "price": 81716.48,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -14404,7 +14404,7 @@
     "name": "Антена HyperLOG 30100X",
     "display_name": "Антена HyperLOG 30100X",
     "short_description": null,
-    "price": 117153.85,
+    "price": 117307.28,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -14436,7 +14436,7 @@
     "name": "Антена HyperLOG 30200X",
     "display_name": "Антена HyperLOG 30200X",
     "short_description": null,
-    "price": 184687.92,
+    "price": 184929.8,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X (активні)",
     "category": {
@@ -14468,7 +14468,7 @@
     "name": "Антена HyperLOG 7040X BPA",
     "display_name": "Антена HyperLOG 7040X BPA",
     "short_description": null,
-    "price": 60283.05,
+    "price": 60362,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X BPA (активні + bypass)",
     "category": {
@@ -14497,7 +14497,7 @@
     "name": "Антена HyperLOG 7060X BPA",
     "display_name": "Антена HyperLOG 7060X BPA",
     "short_description": null,
-    "price": 67391.9,
+    "price": 67480.16,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG X BPA (активні + bypass)",
     "category": {
@@ -14527,7 +14527,7 @@
     "name": "Антена HyperLOG PRO 70140X",
     "display_name": "Антена HyperLOG PRO 70140X",
     "short_description": null,
-    "price": 213123.32,
+    "price": 213402.44,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -14554,7 +14554,7 @@
     "name": "Антена HyperLOG PRO 70200Х",
     "display_name": "Антена HyperLOG PRO 70200Х",
     "short_description": null,
-    "price": 248667.57,
+    "price": 248993.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -14581,7 +14581,7 @@
     "name": "Антена HyperLOG 30100",
     "display_name": "Антена HyperLOG 30100",
     "short_description": null,
-    "price": 74500.75,
+    "price": 74598.32,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -14613,7 +14613,7 @@
     "name": "Антена HyperLOG 30180",
     "display_name": "Антена HyperLOG 30180",
     "short_description": null,
-    "price": 145589.25,
+    "price": 145779.92,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -14645,7 +14645,7 @@
     "name": "Антена HyperLOG 30350",
     "display_name": "Антена HyperLOG 30350",
     "short_description": null,
-    "price": 252222,
+    "price": 252552.32,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -14675,7 +14675,7 @@
     "name": "Антена HyperLOG PRO 70140",
     "display_name": "Антена HyperLOG PRO 70140",
     "short_description": null,
-    "price": 106490.57,
+    "price": 106630.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -14702,7 +14702,7 @@
     "name": "Антена HyperLOG PRO 70260",
     "display_name": "Антена HyperLOG PRO 70260",
     "short_description": null,
-    "price": 198905.62,
+    "price": 199166.12,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -14729,7 +14729,7 @@
     "name": "Антена HyperLOG PRO 70200",
     "display_name": "Антена HyperLOG PRO 70200",
     "short_description": null,
-    "price": 142034.82,
+    "price": 142220.84,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -14756,7 +14756,7 @@
     "name": "Антена HyperLOG 30250",
     "display_name": "Антена HyperLOG 30250",
     "short_description": null,
-    "price": 181133.5,
+    "price": 181370.72,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG (пасивні)",
     "category": {
@@ -15097,7 +15097,7 @@
     "name": "Аналізатор спектру PLUS XPR 250XB-WR08",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR08",
     "short_description": null,
-    "price": 5686937.82,
+    "price": 5694385.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -15125,7 +15125,7 @@
     "name": "Аналізатор спектру PLUS XPR 250XB-WR10",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR10",
     "short_description": null,
-    "price": 4265167.82,
+    "price": 4270753.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -15153,7 +15153,7 @@
     "name": "Аналізатор спектру PLUS XPR 250XB-WR12",
     "display_name": "Аналізатор спектру PLUS XPR 250XB-WR12",
     "short_description": null,
-    "price": 3554282.82,
+    "price": 3558937.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -15321,7 +15321,7 @@
     "name": "Сплітер SP4-7060X Splitter",
     "display_name": "Сплітер SP4-7060X Splitter",
     "short_description": null,
-    "price": 70946.32,
+    "price": 71039.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP4",
     "category": {
@@ -15350,7 +15350,7 @@
     "name": "Сплітер SP4-4080X Splitter",
     "display_name": "Сплітер SP4-4080X Splitter",
     "short_description": null,
-    "price": 92272.87,
+    "price": 92393.72,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP4",
     "category": {
@@ -15379,7 +15379,7 @@
     "name": "Сплітер SP6-DC80X Splitter",
     "display_name": "Сплітер SP6-DC80X Splitter",
     "short_description": null,
-    "price": 142034.82,
+    "price": 142220.84,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP6",
     "category": {
@@ -15408,7 +15408,7 @@
     "name": "Сплітер SP6-7060X Splitter",
     "display_name": "Сплітер SP6-7060X Splitter",
     "short_description": null,
-    "price": 106490.57,
+    "price": 106630.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP6",
     "category": {
@@ -15437,7 +15437,7 @@
     "name": "Сплітер SP6-4080X Splitter",
     "display_name": "Сплітер SP6-4080X Splitter",
     "short_description": null,
-    "price": 127817.12,
+    "price": 127984.52,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP6",
     "category": {
@@ -15466,7 +15466,7 @@
     "name": "Сплітер SP6A-DC80X Splitter",
     "display_name": "Сплітер SP6A-DC80X Splitter",
     "short_description": null,
-    "price": 198905.62,
+    "price": 199166.12,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP6",
     "category": {
@@ -15494,7 +15494,7 @@
     "name": "Сплітер SP4А-7060X Splitter",
     "display_name": "Сплітер SP4А-7060X Splitter",
     "short_description": null,
-    "price": 106490.57,
+    "price": 106630.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP4",
     "category": {
@@ -15522,7 +15522,7 @@
     "name": "Комбайнер SP6-DC80 Splitter/Combiner OEM",
     "display_name": "Комбайнер SP6-DC80 Splitter/Combiner OEM",
     "short_description": null,
-    "price": 106490.57,
+    "price": 106630.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Розгалужувачі/Комбайнери/SPECTRAN SP6",
     "category": {
@@ -15578,7 +15578,7 @@
     "name": "Комплект S-параметрів SPECTRAN V6",
     "display_name": "Комплект S-параметрів SPECTRAN V6",
     "short_description": null,
-    "price": 248667.57,
+    "price": 248993.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/З'єднувачі",
     "category": {
@@ -15605,7 +15605,7 @@
     "name": "Конвертор РЧ через оптоволокно 1060",
     "display_name": "Конвертор РЧ через оптоволокно 1060",
     "short_description": null,
-    "price": 710742.82,
+    "price": 711673.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
     "category": {
@@ -15636,7 +15636,7 @@
     "name": "Конвертор РЧ через оптоволокно 1040",
     "display_name": "Конвертор РЧ через оптоволокно 1040",
     "short_description": null,
-    "price": 639654.32,
+    "price": 640492.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
     "category": {
@@ -15664,7 +15664,7 @@
     "name": "Конвертор РЧ через оптоволокно 10100",
     "display_name": "Конвертор РЧ через оптоволокно 10100",
     "short_description": null,
-    "price": 995096.82,
+    "price": 996400.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
     "category": {
@@ -15692,7 +15692,7 @@
     "name": "Конвертор РЧ через оптоволокно 10160",
     "display_name": "Конвертор РЧ через оптоволокно 10160",
     "short_description": null,
-    "price": 1279450.82,
+    "price": 1281126.44,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Додаткові компоненти/Конвертор РЧ через оптоволокно",
     "category": {
@@ -15801,7 +15801,7 @@
     "name": "Мобільний комплект для аналізу спектру 1",
     "display_name": "Мобільний комплект для аналізу спектру 1",
     "short_description": null,
-    "price": 355300.32,
+    "price": 355765.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру",
     "category": {
@@ -15828,7 +15828,7 @@
     "name": "Мобільний комплект для аналізу спектру 2",
     "display_name": "Мобільний комплект для аналізу спектру 2",
     "short_description": null,
-    "price": 390844.57,
+    "price": 391356.44,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру",
     "category": {
@@ -15855,7 +15855,7 @@
     "name": "Мобільний комплект для аналізу спектру 3",
     "display_name": "Мобільний комплект для аналізу спектру 3",
     "short_description": null,
-    "price": 447715.37,
+    "price": 448301.72,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру",
     "category": {
@@ -15882,7 +15882,7 @@
     "name": "Антена HyperLOG PRO 7080",
     "display_name": "Антена HyperLOG PRO 7080",
     "short_description": null,
-    "price": 70946.32,
+    "price": 71039.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени LogPer/HyperLOG PRO",
     "category": {
@@ -17394,7 +17394,7 @@
     "name": "Кабель SMA з низькими втратами, 5 м",
     "display_name": "Кабель SMA з низькими втратами, 5 м",
     "short_description": null,
-    "price": 13435.73,
+    "price": 13453.32,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Кабелі",
     "category": {
@@ -17583,7 +17583,7 @@
     "name": "SMA-кабель, 1 м",
     "display_name": "SMA-кабель, 1 м",
     "short_description": null,
-    "price": 2129.1,
+    "price": 2131.89,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Кабелі",
     "category": {
@@ -18272,7 +18272,7 @@
     "name": "Атенюатор 20 дБ",
     "display_name": "Атенюатор 20 дБ",
     "short_description": null,
-    "price": 10659.72,
+    "price": 10673.68,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Обмежувачі",
     "category": {
@@ -18299,7 +18299,7 @@
     "name": "DC-блокувальник(SMA)",
     "display_name": "DC-блокувальник(SMA)",
     "short_description": null,
-    "price": 7105.3,
+    "price": 7114.6,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Обмежувачі",
     "category": {
@@ -18436,7 +18436,7 @@
     "name": "USB Зарядний пристрій 12В DC",
     "display_name": "USB Зарядний пристрій 12В DC",
     "short_description": null,
-    "price": 2129.1,
+    "price": 2131.89,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Зарядні пристрої",
     "category": {
@@ -18573,7 +18573,7 @@
     "name": "Low Noise Preamp UBBV 0910",
     "display_name": "Low Noise Preamp UBBV 0910",
     "short_description": null,
-    "price": 38956.5,
+    "price": 39007.52,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Інше",
     "category": {
@@ -18902,7 +18902,7 @@
     "name": "Мініатюрний штатив",
     "display_name": "Мініатюрний штатив",
     "short_description": null,
-    "price": 1418.22,
+    "price": 1420.07,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Штативи",
     "category": {
@@ -18931,7 +18931,7 @@
     "name": "Компактний алюмінієвий штатив",
     "display_name": "Компактний алюмінієвий штатив",
     "short_description": null,
-    "price": 5683.53,
+    "price": 5690.97,
     "currency": "UAH",
     "category_path": "AARONIA AG/Аксесуари/Штативи",
     "category": {
@@ -21210,7 +21210,7 @@
     "name": "Планшет SPECTRAN® V6 TABLET 100TA-6",
     "display_name": "Планшет SPECTRAN® V6 TABLET 100TA-6",
     "short_description": null,
-    "price": 604110.07,
+    "price": 604901.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Планшет",
     "category": {
@@ -21418,7 +21418,7 @@
     "name": "Аналізатор спектру RODB 100RA-6",
     "display_name": "Аналізатор спектру RODB 100RA-6",
     "short_description": null,
-    "price": 355300.32,
+    "price": 355765.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 RODB",
     "category": {
@@ -21449,7 +21449,7 @@
     "name": "Аналізатор спектру V6 ECO XPR 100XA-WR08",
     "display_name": "Аналізатор спектру V6 ECO XPR 100XA-WR08",
     "short_description": null,
-    "price": 4976052.82,
+    "price": 4982569.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -21477,7 +21477,7 @@
     "name": "Аналізатор спектру V6 ECO XPR 100XA-WR10",
     "display_name": "Аналізатор спектру V6 ECO XPR 100XA-WR10",
     "short_description": null,
-    "price": 3554282.82,
+    "price": 3558937.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -21505,7 +21505,7 @@
     "name": "Аналізатор спектру V6 ECO XPR 100XA-WR12",
     "display_name": "Аналізатор спектру V6 ECO XPR 100XA-WR12",
     "short_description": null,
-    "price": 2843397.82,
+    "price": 2847121.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -21533,7 +21533,7 @@
     "name": "Аналізатор спектру V6 ECO XPR 100XA-WR15",
     "display_name": "Аналізатор спектру V6 ECO XPR 100XA-WR15",
     "short_description": null,
-    "price": 2132512.82,
+    "price": 2135305.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 XPLORER",
     "category": {
@@ -23018,7 +23018,7 @@
     "name": "Ноутбук Aaronia Laptop A1",
     "display_name": "Ноутбук Aaronia Laptop A1",
     "short_description": null,
-    "price": 710742.82,
+    "price": 711673.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Ноутбук",
     "category": {
@@ -23107,7 +23107,7 @@
     "name": "Міні-ПК Aaronia \"ThunderCube\" A1",
     "display_name": "Міні-ПК Aaronia \"ThunderCube\" A1",
     "short_description": null,
-    "price": 198905.62,
+    "price": 199166.12,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC",
     "category": {
@@ -23170,7 +23170,7 @@
     "name": "Портативний аналізатор спектра SPECTRAN V4-C Handheld",
     "display_name": "Портативний аналізатор спектра SPECTRAN V4-C Handheld",
     "short_description": null,
-    "price": 248667.57,
+    "price": 248993.24,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру",
     "category": {
@@ -23290,7 +23290,7 @@
     "name": "Комплект для випробувань на EMC в реальному часі (ближнє поле)",
     "display_name": "Комплект для випробувань на EMC в реальному часі (ближнє поле)",
     "short_description": null,
-    "price": 461933.07,
+    "price": 462538.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
     "category": {
@@ -23318,7 +23318,7 @@
     "name": "Комплект для випробувань на EMC в реальному часі (дальнє поле)",
     "display_name": "Комплект для випробувань на EMC в реальному часі (дальнє поле)",
     "short_description": null,
-    "price": 568565.82,
+    "price": 569310.44,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
     "category": {
@@ -23346,7 +23346,7 @@
     "name": "Комплект для випробувань на EMC в реальному часі (ближнє та дальнє поле)",
     "display_name": "Комплект для випробувань на EMC в реальному часі (ближнє та дальнє поле)",
     "short_description": null,
-    "price": 639654.32,
+    "price": 640492.04,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Комплекти для аналізу електромагнітної сумісності (ЕМС)",
     "category": {
@@ -23374,7 +23374,7 @@
     "name": "Spectran V4 DF Handheld",
     "display_name": "Spectran V4 DF Handheld",
     "short_description": null,
-    "price": 710742.82,
+    "price": 711673.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Комплекти/Мобільні комплекти для аналізу спектру",
     "category": {
@@ -23407,7 +23407,7 @@
     "name": "Планшет SPECTRAN® V6 TABLET 2000TA-6",
     "display_name": "Планшет SPECTRAN® V6 TABLET 2000TA-6",
     "short_description": null,
-    "price": 1243906.57,
+    "price": 1245535.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Планшет",
     "category": {
@@ -23439,7 +23439,7 @@
     "name": "Аналізатор спектру RODB 250RA-6",
     "display_name": "Аналізатор спектру RODB 250RA-6",
     "short_description": null,
-    "price": 710742.82,
+    "price": 711673.64,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/Компактний USB/SPECTRAN V6 RODB",
     "category": {
@@ -26399,7 +26399,7 @@
     "name": "Антена IsoLOG 3D DF 80-8",
     "display_name": "Антена IsoLOG 3D DF 80-8",
     "short_description": null,
-    "price": 1775790.73,
+    "price": 1778116.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени IsoLOG",
     "category": {
@@ -26509,7 +26509,7 @@
     "name": "Антена IsoLOG 3D DF 160-8",
     "display_name": "Антена IsoLOG 3D DF 160-8",
     "short_description": null,
-    "price": 2486675.73,
+    "price": 2489932.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени IsoLOG",
     "category": {
@@ -26619,7 +26619,7 @@
     "name": "Антена IsoLOG DF 16-10180",
     "display_name": "Антена IsoLOG DF 16-10180",
     "short_description": null,
-    "price": 4263888.23,
+    "price": 4269472.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени IsoLOG",
     "category": {
@@ -26728,7 +26728,7 @@
     "name": "Антена IsoLOG 3D DF 16-10180",
     "display_name": "Антена IsoLOG 3D DF 16-10180",
     "short_description": null,
-    "price": 5685658.23,
+    "price": 5693104.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени IsoLOG",
     "category": {
@@ -26832,7 +26832,7 @@
     "name": "Антена IsoLOG DF 16-20400",
     "display_name": "Антена IsoLOG DF 16-20400",
     "short_description": null,
-    "price": 5330215.73,
+    "price": 5337196.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени IsoLOG",
     "category": {
@@ -26935,7 +26935,7 @@
     "name": "Антена IsoLOG 3D DF 16-20400",
     "display_name": "Антена IsoLOG 3D DF 16-20400",
     "short_description": null,
-    "price": 7107428.23,
+    "price": 7116736.37,
     "currency": "UAH",
     "category_path": "AARONIA AG/Антени/Антени IsoLOG",
     "category": {
@@ -33449,7 +33449,7 @@
     "name": "GNSS-компас",
     "display_name": "GNSS-компас",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33476,7 +33476,7 @@
     "name": "GPS",
     "display_name": "GPS",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33503,7 +33503,7 @@
     "name": "Датчик потужності NRQ6",
     "display_name": "Датчик потужності NRQ6",
     "short_description": null,
-    "price": 100085.12,
+    "price": 100216.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33530,7 +33530,7 @@
     "name": "Інтеграція аналізаторів Tektronix (Tektronix RSA)",
     "display_name": "Інтеграція аналізаторів Tektronix (Tektronix RSA)",
     "short_description": null,
-    "price": 166897.62,
+    "price": 167116.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33557,7 +33557,7 @@
     "name": " I/Q-спектр потужності високої точності",
     "display_name": " I/Q-спектр потужності високої точності",
     "short_description": null,
-    "price": 667991.38,
+    "price": 668866.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33584,7 +33584,7 @@
     "name": "Зшивач спектрів",
     "display_name": "Зшивач спектрів",
     "short_description": null,
-    "price": 333928.88,
+    "price": 334366.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33611,7 +33611,7 @@
     "name": "Диференціальний аналізатор",
     "display_name": "Диференціальний аналізатор",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33638,7 +33638,7 @@
     "name": "Мультиплексор потоків",
     "display_name": "Мультиплексор потоків",
     "short_description": null,
-    "price": 66678.88,
+    "price": 66766.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33665,7 +33665,7 @@
     "name": "HTTP-сервер",
     "display_name": "HTTP-сервер",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33692,7 +33692,7 @@
     "name": "HTTP-клієнт",
     "display_name": "HTTP-клієнт",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33719,7 +33719,7 @@
     "name": "Подавлювач імпульсних завад",
     "display_name": "Подавлювач імпульсних завад",
     "short_description": null,
-    "price": 100085.12,
+    "price": 100216.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33746,7 +33746,7 @@
     "name": "Аналізатор гармонік",
     "display_name": "Аналізатор гармонік",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33773,7 +33773,7 @@
     "name": "Аналізатор інтермодуляції",
     "display_name": "Аналізатор інтермодуляції",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33800,7 +33800,7 @@
     "name": "Датчик потужності NRP-Z11",
     "display_name": "Датчик потужності NRP-Z11",
     "short_description": null,
-    "price": 100085.12,
+    "price": 100216.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33827,7 +33827,7 @@
     "name": "Генератор сканування Spectran V6",
     "display_name": "Генератор сканування Spectran V6",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33854,7 +33854,7 @@
     "name": "Вимірювач потужності каналу",
     "display_name": "Вимірювач потужності каналу",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33881,7 +33881,7 @@
     "name": "РЧ-перемикач SP4T",
     "display_name": "РЧ-перемикач SP4T",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33908,7 +33908,7 @@
     "name": "Картограф взаємодії IQ WiFi",
     "display_name": "Картограф взаємодії IQ WiFi",
     "short_description": null,
-    "price": 166897.62,
+    "price": 167116.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33935,7 +33935,7 @@
     "name": "Локатор рівня сигналу",
     "display_name": "Локатор рівня сигналу",
     "short_description": null,
-    "price": 333928.88,
+    "price": 334366.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33962,7 +33962,7 @@
     "name": "Багатосмуговий секвенсор",
     "display_name": "Багатосмуговий секвенсор",
     "short_description": null,
-    "price": 333928.88,
+    "price": 334366.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -33989,7 +33989,7 @@
     "name": "Трекінг-генератор Spectran V6",
     "display_name": "Трекінг-генератор Spectran V6",
     "short_description": null,
-    "price": 166897.62,
+    "price": 167116.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34016,7 +34016,7 @@
     "name": "Багатоканальний режекторний фільтр",
     "display_name": "Багатоканальний режекторний фільтр",
     "short_description": null,
-    "price": 333928.88,
+    "price": 334366.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34043,7 +34043,7 @@
     "name": "HiSLIP-SCPI сервер",
     "display_name": "HiSLIP-SCPI сервер",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34070,7 +34070,7 @@
     "name": "Статистика потужності I/Q",
     "display_name": "Статистика потужності I/Q",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34097,7 +34097,7 @@
     "name": "Розширення WiFi 6E",
     "display_name": "Розширення WiFi 6E",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34124,7 +34124,7 @@
     "name": "120 MHz Real-time bandwidth",
     "display_name": "120 MHz Real-time bandwidth",
     "short_description": null,
-    "price": 133491.38,
+    "price": 133666.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34151,7 +34151,7 @@
     "name": "Відеодекодер",
     "display_name": "Відеодекодер",
     "short_description": null,
-    "price": 66678.88,
+    "price": 66766.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34178,7 +34178,7 @@
     "name": "490 MHz real-time bandwidth",
     "display_name": "490 MHz real-time bandwidth",
     "short_description": null,
-    "price": 667991.38,
+    "price": 668866.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34205,7 +34205,7 @@
     "name": "245 MHz Real-time bandwidth",
     "display_name": "245 MHz Real-time bandwidth",
     "short_description": null,
-    "price": 400741.38,
+    "price": 401266.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34232,7 +34232,7 @@
     "name": "Вбудований підсилювач",
     "display_name": "Вбудований підсилювач",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34259,7 +34259,7 @@
     "name": "Спектральна маска фону",
     "display_name": "Спектральна маска фону",
     "short_description": null,
-    "price": 667991.38,
+    "price": 668866.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34286,7 +34286,7 @@
     "name": "Мультиспектральне масштабування",
     "display_name": "Мультиспектральне масштабування",
     "short_description": null,
-    "price": 333928.88,
+    "price": 334366.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34313,7 +34313,7 @@
     "name": "245 MHz Tx Expansion",
     "display_name": "245 MHz Tx Expansion",
     "short_description": null,
-    "price": 100085.12,
+    "price": 100216.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34340,7 +34340,7 @@
     "name": "Internes GPS",
     "display_name": "Internes GPS",
     "short_description": null,
-    "price": 33272.62,
+    "price": 33316.2,
     "currency": "UAH",
     "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
     "category": {
@@ -34497,11 +34497,472 @@
     "specifications": []
   },
   {
-    "id": "copy_112-025",
-    "article": "copy_112-025",
-    "parent_article": "copy_112-025",
-    "name": "copy_3 THz/s Sweep",
-    "display_name": "copy_3 THz/s Sweep",
+    "id": "122-003",
+    "article": "122-003",
+    "parent_article": "122-003",
+    "name": "Frequency Range Follower",
+    "display_name": "Frequency Range Follower",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/42/copy_3-thz-s-sweep-36387184364035_+65003c5e7d.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/42/copy_3-thz-s-sweep-36387184364035_+65003c5e7d.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/frequency-range-follower/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-044",
+    "article": "122-044",
+    "parent_article": "122-044",
+    "name": "GPS Disciplined Time Base",
+    "display_name": "GPS Disciplined Time Base",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/43/gps-disciplined-time-base-67469826372721_+c41df2ea97.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/43/gps-disciplined-time-base-67469826372721_+c41df2ea97.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/gps-disciplined-time-base/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-045",
+    "article": "122-045",
+    "parent_article": "122-045",
+    "name": "GPS Stream",
+    "display_name": "GPS Stream",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/44/gps-stream-57406030591930_+c6a5eb848c.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/44/gps-stream-57406030591930_+c6a5eb848c.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/gps-stream/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-017",
+    "article": "122-017",
+    "parent_article": "122-017",
+    "name": "IQ Pulse Inspector",
+    "display_name": "IQ Pulse Inspector",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/45/iq-pulse-inspector-48161204236918_+51af7ecb7c.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/45/iq-pulse-inspector-48161204236918_+51af7ecb7c.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/iq-pulse-inspector/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-052",
+    "article": "122-052",
+    "parent_article": "122-052",
+    "name": "LTE Analyzer Bundle",
+    "display_name": "LTE Analyzer Bundle",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/46/lte-analyzer-bundle-76697827147828_+681aa184a8.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/46/lte-analyzer-bundle-76697827147828_+681aa184a8.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/lte-analyzer-bundle/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-057",
+    "article": "122-057",
+    "parent_article": "122-057",
+    "name": "VITA49 Server",
+    "display_name": "VITA49 Server",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/47/vita49-server-11236131591616_+7f3e9c1366.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/47/vita49-server-11236131591616_+7f3e9c1366.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/vita49-server/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-058",
+    "article": "122-058",
+    "parent_article": "122-058",
+    "name": "VITA49 Client",
+    "display_name": "VITA49 Client",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/48/vita49-client-25295113839419_+cfd95dffd6.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/48/vita49-client-25295113839419_+cfd95dffd6.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/vita49-client/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-010",
+    "article": "122-010",
+    "parent_article": "122-010",
+    "name": "128k FFT",
+    "display_name": "128k FFT",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/49/128k-fft-95484641357808_+796d98497e.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/49/128k-fft-95484641357808_+796d98497e.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/128k-fft/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-011",
+    "article": "122-011",
+    "parent_article": "122-011",
+    "name": "1M FFT",
+    "display_name": "1M FFT",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/50/1m-fft-69734276633116_+92b42f6d0e.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/50/1m-fft-69734276633116_+92b42f6d0e.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/1m-fft/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122/026",
+    "article": "122/026",
+    "parent_article": "122/026",
+    "name": "Histogram 2k",
+    "display_name": "Histogram 2k",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/1/histogram-2k-72844974811870_+cd70b47b62.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/1/histogram-2k-72844974811870_+cd70b47b62.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/histogram-2k/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122/027",
+    "article": "122/027",
+    "parent_article": "122/027",
+    "name": "IQ Raster Image",
+    "display_name": "IQ Raster Image",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/2/iq-raster-image-23762338993410_+c76927c865.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/2/iq-raster-image-23762338993410_+c76927c865.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/iq-raster-image/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-009",
+    "article": "122-009",
+    "parent_article": "122-009",
+    "name": "IQ Signal Generator QAM64",
+    "display_name": "IQ Signal Generator QAM64",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/3/iq-signal-generator-qam64-91205878717466_+53ea85355c.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/3/iq-signal-generator-qam64-91205878717466_+53ea85355c.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/iq-signal-generator-qam64/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-020",
+    "article": "122-020",
+    "parent_article": "122-020",
+    "name": "Direction Finder Bundle",
+    "display_name": "Direction Finder Bundle",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/4/direction-finder-bundle-13031269511410_+c51f482cd0.png",
+      "https://airunit.com.ua/content/images/4/direction-finder-bundle-44519223763289_+a498d7a3d5.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/4/direction-finder-bundle-13031269511410_+c51f482cd0.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/direction-finder-bundle/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-053",
+    "article": "122-053",
+    "parent_article": "122-053",
+    "name": "IQ BT Interaction Mapper",
+    "display_name": "IQ BT Interaction Mapper",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/5/iq-bt-interaction-mapper-28871063086114_+b0685b826a.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/5/iq-bt-interaction-mapper-28871063086114_+b0685b826a.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/iq-bt-interaction-mapper/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-021",
+    "article": "122-021",
+    "parent_article": "122-021",
+    "name": "Live Cam Bundle",
+    "display_name": "Live Cam Bundle",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/6/live-cam-bundle-72718914979815_+e167c47bfe.png",
+      "https://airunit.com.ua/content/images/6/live-cam-bundle-76179012581747_+61623d8579.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/6/live-cam-bundle-72718914979815_+e167c47bfe.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/live-cam-bundle/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-015",
+    "article": "122-015",
+    "parent_article": "122-015",
+    "name": "Multi Stream Logger",
+    "display_name": "Multi Stream Logger",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/7/multi-stream-logger-91115424958670_+6e392740a2.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/7/multi-stream-logger-91115424958670_+6e392740a2.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/multi-stream-logger/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-018",
+    "article": "122-018",
+    "parent_article": "122-018",
+    "name": "Remote Config",
+    "display_name": "Remote Config",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/8/remote-config-85665233186953_+4e35b44bce.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/8/remote-config-85665233186953_+4e35b44bce.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/remote-config/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "copy_122-018",
+    "article": "copy_122-018",
+    "parent_article": "copy_122-018",
+    "name": "copy_Remote Config",
+    "display_name": "copy_Remote Config",
     "short_description": null,
     "price": 0,
     "currency": "UAH",

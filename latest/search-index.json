@@ -7050,9 +7050,111 @@
     "search_text": "112-025 3 thz/s sweep 3 thz/s sweep"
   },
   {
-    "article": "copy_112-025",
-    "name": "copy_3 THz/s Sweep",
-    "display_name": "copy_3 THz/s Sweep",
-    "search_text": "copy_112-025 copy_3 thz/s sweep copy_3 thz/s sweep"
+    "article": "122-003",
+    "name": "Frequency Range Follower",
+    "display_name": "Frequency Range Follower",
+    "search_text": "122-003 frequency range follower frequency range follower"
+  },
+  {
+    "article": "122-044",
+    "name": "GPS Disciplined Time Base",
+    "display_name": "GPS Disciplined Time Base",
+    "search_text": "122-044 gps disciplined time base gps disciplined time base"
+  },
+  {
+    "article": "122-045",
+    "name": "GPS Stream",
+    "display_name": "GPS Stream",
+    "search_text": "122-045 gps stream gps stream"
+  },
+  {
+    "article": "122-017",
+    "name": "IQ Pulse Inspector",
+    "display_name": "IQ Pulse Inspector",
+    "search_text": "122-017 iq pulse inspector iq pulse inspector"
+  },
+  {
+    "article": "122-052",
+    "name": "LTE Analyzer Bundle",
+    "display_name": "LTE Analyzer Bundle",
+    "search_text": "122-052 lte analyzer bundle lte analyzer bundle"
+  },
+  {
+    "article": "122-057",
+    "name": "VITA49 Server",
+    "display_name": "VITA49 Server",
+    "search_text": "122-057 vita49 server vita49 server"
+  },
+  {
+    "article": "122-058",
+    "name": "VITA49 Client",
+    "display_name": "VITA49 Client",
+    "search_text": "122-058 vita49 client vita49 client"
+  },
+  {
+    "article": "122-010",
+    "name": "128k FFT",
+    "display_name": "128k FFT",
+    "search_text": "122-010 128k fft 128k fft"
+  },
+  {
+    "article": "122-011",
+    "name": "1M FFT",
+    "display_name": "1M FFT",
+    "search_text": "122-011 1m fft 1m fft"
+  },
+  {
+    "article": "122/026",
+    "name": "Histogram 2k",
+    "display_name": "Histogram 2k",
+    "search_text": "122/026 histogram 2k histogram 2k"
+  },
+  {
+    "article": "122/027",
+    "name": "IQ Raster Image",
+    "display_name": "IQ Raster Image",
+    "search_text": "122/027 iq raster image iq raster image"
+  },
+  {
+    "article": "122-009",
+    "name": "IQ Signal Generator QAM64",
+    "display_name": "IQ Signal Generator QAM64",
+    "search_text": "122-009 iq signal generator qam64 iq signal generator qam64"
+  },
+  {
+    "article": "122-020",
+    "name": "Direction Finder Bundle",
+    "display_name": "Direction Finder Bundle",
+    "search_text": "122-020 direction finder bundle direction finder bundle"
+  },
+  {
+    "article": "122-053",
+    "name": "IQ BT Interaction Mapper",
+    "display_name": "IQ BT Interaction Mapper",
+    "search_text": "122-053 iq bt interaction mapper iq bt interaction mapper"
+  },
+  {
+    "article": "122-021",
+    "name": "Live Cam Bundle",
+    "display_name": "Live Cam Bundle",
+    "search_text": "122-021 live cam bundle live cam bundle"
+  },
+  {
+    "article": "122-015",
+    "name": "Multi Stream Logger",
+    "display_name": "Multi Stream Logger",
+    "search_text": "122-015 multi stream logger multi stream logger"
+  },
+  {
+    "article": "122-018",
+    "name": "Remote Config",
+    "display_name": "Remote Config",
+    "search_text": "122-018 remote config remote config"
+  },
+  {
+    "article": "copy_122-018",
+    "name": "copy_Remote Config",
+    "display_name": "copy_Remote Config",
+    "search_text": "copy_122-018 copy_remote config copy_remote config"
   }
 ]
