@@ -7152,9 +7152,45 @@
     "search_text": "122-018 remote config remote config"
   },
   {
-    "article": "copy_122-018",
-    "name": "copy_Remote Config",
-    "display_name": "copy_Remote Config",
-    "search_text": "copy_122-018 copy_remote config copy_remote config"
+    "article": "122-023",
+    "name": "Streaming Bundle",
+    "display_name": "Streaming Bundle",
+    "search_text": "122-023 streaming bundle streaming bundle"
+  },
+  {
+    "article": "122-022",
+    "name": "Waterfall & Pulse Bundle",
+    "display_name": "Waterfall & Pulse Bundle",
+    "search_text": "122-022 waterfall & pulse bundle waterfall & pulse bundle"
+  },
+  {
+    "article": "122-048",
+    "name": "Offline Map Integration",
+    "display_name": "Offline Map Integration",
+    "search_text": "122-048 offline map integration offline map integration"
+  },
+  {
+    "article": "122-035",
+    "name": "RF Drive Test",
+    "display_name": "RF Drive Test",
+    "search_text": "122-035 rf drive test rf drive test"
+  },
+  {
+    "article": "122-019",
+    "name": "Category & Channel Bundle",
+    "display_name": "Category & Channel Bundle",
+    "search_text": "122-019 category & channel bundle category & channel bundle"
+  },
+  {
+    "article": "122-042",
+    "name": "Stream Portal",
+    "display_name": "Stream Portal",
+    "search_text": "122-042 stream portal stream portal"
+  },
+  {
+    "article": "122-056",
+    "name": "Wrapped Spectrum 32",
+    "display_name": "Wrapped Spectrum 32",
+    "search_text": "122-056 wrapped spectrum 32 wrapped spectrum 32"
   }
 ]

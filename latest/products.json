@@ -34958,11 +34958,11 @@
     "specifications": []
   },
   {
-    "id": "copy_122-018",
-    "article": "copy_122-018",
-    "parent_article": "copy_122-018",
-    "name": "copy_Remote Config",
-    "display_name": "copy_Remote Config",
+    "id": "122-023",
+    "article": "122-023",
+    "parent_article": "122-023",
+    "name": "Streaming Bundle",
+    "display_name": "Streaming Bundle",
     "short_description": null,
     "price": 0,
     "currency": "UAH",
@@ -34973,10 +34973,177 @@
       "level_2": "Контрольно-вимірювальні прилади",
       "level_3": "Програмне забезпечення"
     },
-    "images": [],
-    "primary_image": null,
-    "has_images": false,
-    "link": null,
+    "images": [
+      "https://airunit.com.ua/content/images/9/streaming-bundle-32948741659419_+90509cfbec.png",
+      "https://airunit.com.ua/content/images/9/streaming-bundle-48709359396865_+624099bb60.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/9/streaming-bundle-32948741659419_+90509cfbec.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/streaming-bundle/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-022",
+    "article": "122-022",
+    "parent_article": "122-022",
+    "name": "Waterfall & Pulse Bundle",
+    "display_name": "Waterfall & Pulse Bundle",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/10/waterfall-pulse-bundle-61597204154345_+66395b273a.png",
+      "https://airunit.com.ua/content/images/10/waterfall-pulse-bundle-56778967781153_+9befb94332.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/10/waterfall-pulse-bundle-61597204154345_+66395b273a.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/waterfall-pulse-bundle/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-048",
+    "article": "122-048",
+    "parent_article": "122-048",
+    "name": "Offline Map Integration",
+    "display_name": "Offline Map Integration",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/11/offline-map-integration-68907371361824_+da65420d1c.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/11/offline-map-integration-68907371361824_+da65420d1c.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/offline-map-integration/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-035",
+    "article": "122-035",
+    "parent_article": "122-035",
+    "name": "RF Drive Test",
+    "display_name": "RF Drive Test",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/12/rf-drive-test-49935877047521_+65504b317c.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/12/rf-drive-test-49935877047521_+65504b317c.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/rf-drive-test/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-019",
+    "article": "122-019",
+    "parent_article": "122-019",
+    "name": "Category & Channel Bundle",
+    "display_name": "Category & Channel Bundle",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/13/category-channel-bundle-71045388574174_+d7f4421630.png",
+      "https://airunit.com.ua/content/images/13/category-channel-bundle-62368630897463_+9ce6f1b607.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/13/category-channel-bundle-71045388574174_+d7f4421630.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/category-channel-bundle/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-042",
+    "article": "122-042",
+    "parent_article": "122-042",
+    "name": "Stream Portal",
+    "display_name": "Stream Portal",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/14/stream-portal-98472530360260_+0602a2d1da.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/14/stream-portal-98472530360260_+0602a2d1da.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/stream-portal/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
+    "id": "122-056",
+    "article": "122-056",
+    "parent_article": "122-056",
+    "name": "Wrapped Spectrum 32",
+    "display_name": "Wrapped Spectrum 32",
+    "short_description": null,
+    "price": 0,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Програмне забезпечення",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Програмне забезпечення"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/15/wrapped-spectrum-32-13624471190163_+fe4d4c2da9.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/15/wrapped-spectrum-32-13624471190163_+fe4d4c2da9.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/wrapped-spectrum-32/",
     "is_modification": false,
     "active": null,
     "source": "horoshop",
