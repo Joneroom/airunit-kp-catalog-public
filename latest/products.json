@@ -4555,7 +4555,11 @@
     "images": [
       "https://airunit.com.ua/content/images/43/paverbank-spectran-v6-x-14361539799883_+b5711829c7.jpg",
       "https://airunit.com.ua/content/images/43/paverbank-spectran-v6-x-81023025107619_+6411894359.jpg",
-      "https://airunit.com.ua/content/images/43/58370421431188_+0653f87187.png"
+      "https://airunit.com.ua/content/images/43/paverbank-spectran-v6-x-91270083115116_+1bf97941e8.png",
+      "https://airunit.com.ua/content/images/43/paverbank-spectran-v6-x-29918569655824_+d15e05abb9.png",
+      "https://airunit.com.ua/content/images/43/paverbank-spectran-v6-x-22077969765079_+ef04e55f02.png",
+      "https://airunit.com.ua/content/images/43/paverbank-spectran-v6-x-65816508374016_+f5260fc91a.png",
+      "https://airunit.com.ua/content/images/43/paverbank-spectran-v6-x-65919182454183_+f2a91f946f.png"
     ],
     "primary_image": "https://airunit.com.ua/content/images/43/paverbank-spectran-v6-x-14361539799883_+b5711829c7.jpg",
     "has_images": true,
@@ -5030,33 +5034,6 @@
     "primary_image": "https://airunit.com.ua/content/images/9/vsenapravlena-antena-omnilog-90200-99642280550581_+8ab558ec2e.jpg",
     "has_images": true,
     "link": "https://airunit.com.ua/aaronia-antenna-omnilog-90200/",
-    "is_modification": false,
-    "active": null,
-    "source": "horoshop",
-    "specifications": []
-  },
-  {
-    "id": "502/016-SMA-Quick-Adapter",
-    "article": "502/016-SMA-Quick-Adapter",
-    "parent_article": "502/016-SMA-Quick-Adapter",
-    "name": "Швидкоз'ємний перехідник SMA",
-    "display_name": "Швидкоз'ємний перехідник SMA",
-    "short_description": null,
-    "price": 0,
-    "currency": null,
-    "category_path": "AARONIA AG/Антени/Аксесуари для Антен",
-    "category": {
-      "full_path": "AARONIA AG/Антени/Аксесуари для Антен",
-      "level_1": "AARONIA AG",
-      "level_2": "Антени",
-      "level_3": "Аксесуари для Антен"
-    },
-    "images": [
-      "https://airunit.com.ua/content/images/10/63736159710853_+6617d46562.png"
-    ],
-    "primary_image": "https://airunit.com.ua/content/images/10/63736159710853_+6617d46562.png",
-    "has_images": true,
-    "link": "https://airunit.com.ua/shvydkoziemnyi-perekhidnyk-sma/",
     "is_modification": false,
     "active": null,
     "source": "horoshop",
@@ -18015,7 +17992,8 @@
       "level_3": "Адаптери"
     },
     "images": [
-      "https://airunit.com.ua/content/images/12/shvydkyi-adapter-sma-91888411500613_+790eeb89fa.png"
+      "https://airunit.com.ua/content/images/12/shvydkyi-adapter-sma-91888411500613_+790eeb89fa.png",
+      "https://airunit.com.ua/content/images/12/shvydkyi-adapter-sma-41185229310242_+708986c1a6.png"
     ],
     "primary_image": "https://airunit.com.ua/content/images/12/shvydkyi-adapter-sma-91888411500613_+790eeb89fa.png",
     "has_images": true,
@@ -22866,10 +22844,9 @@
       "level_3": "Обмежувачі"
     },
     "images": [
-      "https://airunit.com.ua/content/images/26/71616719878718_+05d6b731f3.png",
-      "https://airunit.com.ua/content/images/26/24924713097636_+1f3f8b1c9e.png"
+      "https://airunit.com.ua/content/images/26/sma-limiter-20ghz-25077988845554_+18178e5708.png"
     ],
-    "primary_image": "https://airunit.com.ua/content/images/26/71616719878718_+05d6b731f3.png",
+    "primary_image": "https://airunit.com.ua/content/images/26/sma-limiter-20ghz-25077988845554_+18178e5708.png",
     "has_images": true,
     "link": "https://airunit.com.ua/sma-limiter-20ghz/",
     "is_modification": false,

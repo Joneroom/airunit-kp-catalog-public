@@ -123,7 +123,6 @@
     "children_paths": [
       "AARONIA AG/Антени/3D ізотропні антени",
       "AARONIA AG/Антени/EMC Сніфер",
-      "AARONIA AG/Антени/Аксесуари для Антен",
       "AARONIA AG/Антени/Антени IsoLOG",
       "AARONIA AG/Антени/Антени LogPer",
       "AARONIA AG/Антени/Всенаправлені та біконічні антени",
@@ -164,17 +163,6 @@
     "level_1": "AARONIA AG",
     "level_2": "Антени",
     "level_3": "EMC Сніфер",
-    "children_paths": []
-  },
-  {
-    "id": "AARONIA AG/Антени/Аксесуари для Антен",
-    "name": "Аксесуари для Антен",
-    "path": "AARONIA AG/Антени/Аксесуари для Антен",
-    "parent_path": "AARONIA AG/Антени",
-    "level": 3,
-    "level_1": "AARONIA AG",
-    "level_2": "Антени",
-    "level_3": "Аксесуари для Антен",
     "children_paths": []
   },
   {
