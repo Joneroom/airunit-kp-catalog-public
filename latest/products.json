@@ -23580,6 +23580,37 @@
     "specifications": []
   },
   {
+    "id": "102/073",
+    "article": "102/073",
+    "parent_article": "102/073",
+    "name": "Планшет SPECTRAN® V6 MOBILE 250TA-6",
+    "display_name": "Планшет SPECTRAN® V6 MOBILE 250TA-6",
+    "short_description": null,
+    "price": 791851.05,
+    "currency": "UAH",
+    "category_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Планшет",
+    "category": {
+      "full_path": "AARONIA AG/Контрольно-вимірювальні прилади/Аналізатори спектру/PC/Мобільний Планшет",
+      "level_1": "AARONIA AG",
+      "level_2": "Контрольно-вимірювальні прилади",
+      "level_3": "Аналізатори спектру"
+    },
+    "images": [
+      "https://airunit.com.ua/content/images/23/planshet-spectran-v6-mobile-250ta-6-78255749116357_+7d4d6435db.png",
+      "https://airunit.com.ua/content/images/23/planshet-spectran-v6-mobile-250ta-6-78946292319907_+910b5f6596.png",
+      "https://airunit.com.ua/content/images/23/planshet-spectran-v6-mobile-250ta-6-33131614079462_+5642c67d0a.png",
+      "https://airunit.com.ua/content/images/23/planshet-spectran-v6-mobile-250ta-6-43010745104718_+48fcedd8c0.png",
+      "https://airunit.com.ua/content/images/23/planshet-spectran-v6-mobile-250ta-6-49710744012198_+75ceb1e6ae.png"
+    ],
+    "primary_image": "https://airunit.com.ua/content/images/23/planshet-spectran-v6-mobile-250ta-6-78255749116357_+7d4d6435db.png",
+    "has_images": true,
+    "link": "https://airunit.com.ua/planshet-spectran-v6-mobile-250ta-6/",
+    "is_modification": false,
+    "active": null,
+    "source": "horoshop",
+    "specifications": []
+  },
+  {
     "id": "EF-RG-SOLAR-100",
     "article": "EF-RG-SOLAR-100",
     "parent_article": "EF-RG-SOLAR-100",
