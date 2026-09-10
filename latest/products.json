@@ -26559,41 +26559,6 @@
     "specifications": []
   },
   {
-    "id": "207/002",
-    "article": "207/002",
-    "parent_article": "207/002",
-    "name": "Антена IsoLOG 3D DF 160-8",
-    "display_name": "Антена IsoLOG 3D DF 160-8",
-    "short_description": null,
-    "price": 2518544.26,
-    "currency": "UAH",
-    "category_path": "AARONIA AG/Антени/Антени IsoLOG",
-    "category": {
-      "full_path": "AARONIA AG/Антени/Антени IsoLOG",
-      "level_1": "AARONIA AG",
-      "level_2": "Антени",
-      "level_3": "Антени IsoLOG"
-    },
-    "images": [
-      "https://airunit.com.ua/content/images/21/81345575212046_+1b6d250489.png",
-      "https://airunit.com.ua/content/images/21/81880206552072_+cbfd05b2ce.png",
-      "https://airunit.com.ua/content/images/21/58925787419054_+d76d511eec.png",
-      "https://airunit.com.ua/content/images/21/72539856864598_+1edf96b8e8.png",
-      "https://airunit.com.ua/content/images/21/13108484547554_+582c945afb.png",
-      "https://airunit.com.ua/content/images/21/95324470925296_+a1ed0ee123.png",
-      "https://airunit.com.ua/content/images/21/42098110049478_+4412a4bae1.png",
-      "https://airunit.com.ua/content/images/21/45285827933096_+42813ed5cb.png",
-      "https://airunit.com.ua/content/images/21/84287604501328_+cc4c7d675a.png"
-    ],
-    "primary_image": "https://airunit.com.ua/content/images/21/81345575212046_+1b6d250489.png",
-    "has_images": true,
-    "link": "https://airunit.com.ua/antena-isolog-3d-df-160-8/",
-    "is_modification": false,
-    "active": null,
-    "source": "horoshop",
-    "specifications": []
-  },
-  {
     "id": "503/056-IsoLOG-3D-DF-160-8",
     "article": "503/056-IsoLOG-3D-DF-160-8",
     "parent_article": "207/002",
