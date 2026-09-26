@@ -23739,13 +23739,13 @@
     "specifications": []
   },
   {
-    "id": "EAN 4897082667179",
-    "article": "EAN 4897082667179",
-    "parent_article": "EAN 4897082667179",
+    "id": "EAN 4897082667179-",
+    "article": "EAN 4897082667179-",
+    "parent_article": "EAN 4897082667179-",
     "name": "Портативна сонячна панель EcoFlow 110W",
     "display_name": "Портативна сонячна панель EcoFlow 110W",
     "short_description": null,
-    "price": 0,
+    "price": 6999,
     "currency": "UAH",
     "category_path": "Зарядні станції/Сонячні панелі/EcoFlow/Портативні панелі",
     "category": {
