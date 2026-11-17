@@ -4824,6 +4824,24 @@
     "search_text": "402/002 pulsar gpncs-3 pulsar gpncs-3"
   },
   {
+    "article": "510/001",
+    "name": "V6 Starter Kit",
+    "display_name": "V6 Starter Kit",
+    "search_text": "510/001 v6 starter kit v6 starter kit"
+  },
+  {
+    "article": "v6-pro",
+    "name": "Аналізатор спектру V6 PRO",
+    "display_name": "Аналізатор спектру V6 PRO",
+    "search_text": "v6-pro аналізатор спектру v6 pro аналізатор спектру v6 pro"
+  },
+  {
+    "article": "copy_206/011",
+    "name": "copy_Магнітна антена MDF 930X",
+    "display_name": "copy_Магнітна антена MDF 930X",
+    "search_text": "copy_206/011 copy_магнітна антена mdf 930x copy_магнітна антена mdf 930x"
+  },
+  {
     "article": "EF-RG-SOLAR-100",
     "name": "Стаціонарна сонячна панель EcoFlow 100W Rigid Solar Panel",
     "display_name": "Стаціонарна сонячна панель EcoFlow 100W Rigid Solar Panel",
@@ -5398,12 +5416,6 @@
     "name": "AARTOS DDS X9",
     "display_name": "AARTOS DDS X9",
     "search_text": "801/006 aartos dds x9 aartos dds x9"
-  },
-  {
-    "article": "207/001",
-    "name": "Антена IsoLOG 3D DF 80-8",
-    "display_name": "Антена IsoLOG 3D DF 80-8",
-    "search_text": "207/001 антена isolog 3d df 80-8 антена isolog 3d df 80-8"
   },
   {
     "article": "503/056-IsoLOG-3D-DF-80-8",
@@ -7204,5 +7216,17 @@
     "name": "Wrapped Spectrum 32",
     "display_name": "Wrapped Spectrum 32",
     "search_text": "122-056 wrapped spectrum 32 wrapped spectrum 32"
+  },
+  {
+    "article": "122-066",
+    "name": "SDR Receiver",
+    "display_name": "SDR Receiver",
+    "search_text": "122-066 sdr receiver sdr receiver"
+  },
+  {
+    "article": "122-065",
+    "name": "DAB+ Receiver",
+    "display_name": "DAB+ Receiver",
+    "search_text": "122-065 dab+ receiver dab+ receiver"
   }
 ]
